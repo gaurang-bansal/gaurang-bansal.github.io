@@ -1,7 +1,0 @@
-own_webiste:
-	jk -> Generate _site folder
-
-In _site:
-	git add .
-	git commit -m "nth commit"
-	git push
