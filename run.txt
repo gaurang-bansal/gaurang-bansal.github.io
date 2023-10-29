@@ -5,3 +5,5 @@ In _site:
 	git add .
 	git commit -m "nth commit"
 	git push
+
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/HArBZApEudofoZrvQ/papers.bib&theme=side#"></script> 
