@@ -5,10 +5,10 @@ permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 subtitle: <a href="https://www.quickads.ai/">Quickads </a> • <a href="https://nus.edu.sg">National University of Singapore </a> • <a href="https://research.google/outreach/phd-fellowship/recipients">Google PhD Fellow</a> 
 
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
+profile:
+  align: right
+  image: gaurang.png
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
