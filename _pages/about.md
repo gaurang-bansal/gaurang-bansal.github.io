@@ -18,7 +18,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Gaurang Bansal (Director, Vedastu Application Pvt. Ltd.) is co-founder of [QuickAds](https://www.quickads.ai/), an innovative SaaS platform revolutionizing ROAS for D2C brands. QuickAds stands out for delivering high-quality creatives and automating targeted campaigns, cutting brand costs by 95% and boosting ad creation speed by 30 times. With over 2,000+ active users, QuickAds is a game-changer for businesses seeking to optimize their advertising efforts.
+Gaurang Bansal, Director at Vedastu Application Pvt. Ltd., is co-founder of [QuickAds](https://www.quickads.ai/), an innovative SaaS platform revolutionizing ROAS for D2C brands. QuickAds stands out for delivering high-quality creatives and automating targeted campaigns, cutting brand costs by 95% and boosting ad creation speed by 30x. With over 2,000+ active users, QuickAds is a game-changer for businesses seeking to optimize their advertising efforts.
 
 Gaurang leads the Discover feature at QuickAds, driving the development of next-generation AI solutions. He is also building the largest ad library, featuring over 8 million ads from platforms like Facebook, Instagram, YouTube, Google, and TikTok, specifically curated for D2C brands. With more than 8 years of experience in Python (FastAPI), PostgreSQL, Next.js, React, and AI/ML, Gaurang is at the forefront of innovation in ad technology.
 
