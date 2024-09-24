@@ -8,7 +8,7 @@ subtitle: <a href="https://www.quickads.ai/">Quickads </a> • <a href="https://
 profile:
   align: right
   image: gaurang.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
