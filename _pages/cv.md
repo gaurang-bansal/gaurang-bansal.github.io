@@ -15,7 +15,9 @@ layout: default
 permalink: /assets/pdf/index.pdf
 title: CV
 nav: true
-nav_order: 5
+nav_order: 3
+toc:
+  sidebar: left
 ---
 <meta http-equiv="refresh" content="0; url=/assets/pdf/gaurangCV.pdf">
 <p>If you are not redirected, <a href="/assets/pdf/gaurangCV.pdf">click here to view the CV.</a></p>
