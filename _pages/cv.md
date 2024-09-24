@@ -12,9 +12,11 @@ toc:
 
 ---
 layout: default
-permalink: /cv/
+permalink: /assets/pdf/index.pdf
+title: CV
 nav: true
 nav_order: 5
 ---
-<meta http-equiv="refresh" content="0; url=/CV/">
-<p>If you are not redirected, <a href="/CV/">click here to view the CV.</a></p>
+<meta http-equiv="refresh" content="0; url=/assets/pdf/gaurangCV.pdf">
+<p>If you are not redirected, <a href="/assets/pdf/gaurangCV.pdf">click here to view the CV.</a></p>
+
