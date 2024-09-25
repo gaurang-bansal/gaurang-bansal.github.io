@@ -11,14 +11,15 @@ toc:
 --- -->
 
 ---
-layout: default
-permalink: /assets/pdf/index.pdf
+layout: page
+permalink: /cv/
 title: CV
+description: Curriculum Vitae of Gaurang Bansal.
 nav: true
 nav_order: 3
-toc:
-  sidebar: left
 ---
-<meta http-equiv="refresh" content="0; url=/assets/pdf/gaurangCV.pdf">
-<p>If you are not redirected, <a href="/assets/pdf/gaurangCV.pdf">click here to view the CV.</a></p>
+<iframe src="/assets/pdf/index.pdf" width="100%" height="800px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="/assets/pdf/index.pdf">Download PDF</a>.
+</iframe>
 
