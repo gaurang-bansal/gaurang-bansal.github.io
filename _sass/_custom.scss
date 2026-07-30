@@ -44,19 +44,22 @@
   opacity: 0.95;
 }
 
-/* Clickable purple role strip — text only */
+/* Role strip — plain purple text, no pills / bold */
 .role-strip {
   display: block;
   max-width: 52rem !important;
   line-height: 1.55;
+  color: var(--brand-purple) !important;
+  font-weight: 400 !important;
 }
 
 .role-chip {
   color: var(--brand-purple) !important;
-  font-weight: 650;
+  font-weight: 400 !important;
   text-decoration: none !important;
   background: none !important;
   border: none !important;
+  box-shadow: none !important;
   padding: 0 !important;
   border-radius: 0 !important;
   transition: none !important;
@@ -66,8 +69,10 @@
 .role-chip:hover,
 .role-chip:focus {
   color: var(--brand-purple) !important;
+  font-weight: 400 !important;
   background: none !important;
   border: none !important;
+  box-shadow: none !important;
   transform: none !important;
   text-decoration: underline !important;
 }
