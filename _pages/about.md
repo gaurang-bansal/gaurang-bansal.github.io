@@ -1,31 +1,27 @@
 ---
 layout: about
-title: <strong>About</strong> 
+title: <strong>About</strong>
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: <a href="https://www.quickads.ai/">Quickads </a> • <a href="https://nus.edu.sg">National University of Singapore </a> • <a href="https://research.google/outreach/phd-fellowship/recipients">Google PhD Fellow</a> 
+subtitle: <a href="https://aiqwip.com">Aiqwip</a> • <a href="https://nus.edu.sg">PhD, NUS</a> • <a href="https://research.google/outreach/phd-fellowship/recipients">Google PhD Fellow</a>
 
 profile:
   align: right
   image: gaurang.png
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Gaurang Bansal, Director at Vedastu Application Pvt. Ltd., is co-founder of [QuickAds](https://www.quickads.ai/), an innovative SaaS platform revolutionizing ROAS for D2C brands. QuickAds stands out for delivering high-quality creatives and automating targeted campaigns, cutting brand costs by 95% and boosting ad creation speed by 30x. With over 2,000+ active users, QuickAds is a game-changer for businesses seeking to optimize their advertising efforts.
 
-Gaurang leads the Discover feature at QuickAds, driving the development of next-generation AI solutions. He is also building the largest ad library, featuring over 8 million ads from platforms like Facebook, Instagram, YouTube, Google, and TikTok, specifically curated for D2C brands. With more than 8 years of experience in Python (FastAPI), PostgreSQL, Next.js, React, and AI/ML, Gaurang is at the forefront of innovation in ad technology.
+Gaurang Bansal is an entrepreneur and AI technologist building products at the intersection of Generative AI, machine learning, and deep analytics. He is currently **Founder & CEO of a stealth-mode startup** and a **Partner at [Aiqwip](https://aiqwip.com)**, where he helps businesses design and ship GenAI, ML, and SaaS solutions.
 
-In parallel with his professional achievements, Gaurang is completing his Ph.D. in Electrical and Computer Engineering at the [National University of Singapore (NUS)](https://nus.edu.sg). His exceptional expertise in Machine Learning and Privacy & Security earned him the prestigious [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients) award, and he has also been honored with the [NUS President Fellowship](https://cde.nus.edu.sg/ece/graduate/scholarship-financial-support) for his outstanding academic achievements. Gaurang previously completed his Master's and Bachelor's degrees from [BITS Pilani](https://www.bits-pilani.ac.in) in 2020 and 2018, respectively.
+He previously **co-founded [QuickAds](https://www.quickads.ai/)**, an AI-powered platform that helps brands generate image and video ads at scale—spanning creatives, product photography, and campaign workflows. QuickAds grew into a funded SaaS product used by D2C marketers worldwide and was recognized with a Stevie Award for AI innovation.
 
-With a passion for cutting-edge research and innovation, Gaurang's work in machine learning, cryptography, and web security has resulted in 35+ publications in top-tier conferences and journals like IEEE IoT Journal (IF 10.1) and IEEE Transactions on Vehicular Technology (IF 7.2). His research has garnered over 1000+ citations on [Google Scholar](https://scholar.google.com/citations?user=A-t6Ds8AAAAJ&hl=en&oi=ao), underscoring his influence and impact in the field.
+Gaurang earned his **Ph.D. in Electrical and Computer Engineering** from the [National University of Singapore (NUS)](https://nus.edu.sg) (2020–2025), where he was awarded the prestigious [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients) and the [NUS President Fellowship](https://cde.nus.edu.sg/ece/graduate/scholarship-financial-support). He completed his Master's (2020) and Bachelor's (2018) degrees at [BITS Pilani](https://www.bits-pilani.ac.in).
 
-In addition to his academic pursuits, Gaurang has amassed considerable professional experience. Previously, he was a Research Collaborator with [Google](https://about.google/intl/ALL_in), working alongside [Sai Teja Peddinti](https://sites.google.com/site/psaiteja/home) on an "Automated Browser Plugin for Phishing Detection using Federated Learning". He has also worked with various startups, such as [DRIFE](https://www.drife.io), where he led the engineering of a decentralized ride-sharing platform akin to Uber, fostering a peer-to-peer transportation network and enabling dApps deployment for advanced mobility solutions.
+His research in machine learning, cryptography, privacy, and web security has led to **30+ publications** in venues such as IEEE IoT Journal and IEEE Transactions on Vehicular Technology, with **1,000+ citations** on [Google Scholar](https://scholar.google.com/citations?user=A-t6Ds8AAAAJ&hl=en). He brings 8+ years of hands-on experience across Python (FastAPI), PostgreSQL, Next.js, React, and AI/ML systems.
 
-Gaurang’s blend of entrepreneurial spirit, technical expertise, and academic excellence makes him a pivotal figure in the tech industry, driving forward both QuickAds and the broader landscape of AI-driven advertising.
+Earlier in his career, he was a Research Collaborator with [Google](https://about.google/), working with [Sai Teja Peddinti](https://sites.google.com/site/psaiteja/home) on automated phishing detection, and engineered decentralized mobility systems at [DRIFE](https://www.drife.io). He also served as Director at Vedastu Applications Pvt. Ltd.
+
+Gaurang’s work combines research depth with product execution—turning advances in AI and security into tools that teams can actually ship and scale.
