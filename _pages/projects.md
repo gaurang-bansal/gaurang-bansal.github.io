@@ -2,12 +2,19 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Selected product and research work.
+description: Product builds and research with measurable outcomes — from AdScrape and Claude Opus evaluation to IEEE publications.
 nav: true
 nav_order: 3
 display_categories: [Product, Research]
-horizontal: false
+horizontal: true
 ---
+
+<div class="projects-intro">
+  <p>
+    Selected work spanning <strong>shipped products</strong> and <strong>peer-reviewed research</strong>.
+    Each project links to live demos, docs, or publications where available.
+  </p>
+</div>
 
 <!-- pages/projects.md -->
 <div class="projects">

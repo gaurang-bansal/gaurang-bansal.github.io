@@ -76,6 +76,79 @@
   animation-delay: 0.34s;
 }
 
+.projects-intro {
+  margin: 0 0 1.5rem;
+  max-width: 42rem;
+  line-height: 1.6;
+  opacity: 0.92;
+}
+
+.projects .category {
+  margin-top: 1.75rem;
+  margin-bottom: 1rem;
+  letter-spacing: 0.02em;
+}
+
+.project-card-link {
+  text-decoration: none !important;
+  color: inherit;
+  display: block;
+  height: 100%;
+}
+
+.project-card {
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 14px !important;
+}
+
+.project-card-media {
+  background: #0f172a;
+  min-height: 180px;
+}
+
+.project-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0 !important;
+}
+
+.project-card-body {
+  padding: 1.25rem 1.35rem !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 180px;
+}
+
+.project-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.72rem;
+  font-weight: 600;
+  margin-bottom: 0.35rem !important;
+  color: var(--global-theme-color);
+}
+
+.project-card .card-title {
+  font-size: 1.25rem;
+  margin-bottom: 0.45rem;
+}
+
+.project-card .card-text {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  opacity: 0.88;
+  margin-bottom: 0.75rem;
+}
+
+.project-cta {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--global-theme-color);
+}
+
 .projects .card {
   animation-delay: 0.12s;
   transition:
@@ -84,16 +157,26 @@
 }
 
 .projects .card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.12);
 }
 
-.projects .card-img-top {
+.projects a:hover .card-img-top,
+.projects a:hover .project-cover {
+  transform: scale(1.03);
+}
+
+.project-cover {
   transition: transform 0.35s ease;
 }
 
-.projects a:hover .card-img-top {
-  transform: scale(1.03);
+/* Project case study pages */
+.post article table {
+  margin: 1rem 0 1.25rem;
+}
+
+.post article h3 {
+  margin-top: 1.4rem;
 }
 
 .btn {
