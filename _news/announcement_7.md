@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚀 Started a new stealth-mode startup as Founder & CEO, building the next generation of AI products.
+🚀 Building [AdScrape](https://www.adscrape.in/) — a Meta Ad Library intelligence platform and API for Facebook & Instagram ad research.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-01 09:00:00-0400
+date: 2025-12-01 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-🤝 Joined [Aiqwip](https://aiqwip.com) as Partner, helping companies design and ship GenAI, ML, and SaaS solutions.
+🧠 Joined [Turing](https://www.turing.com/) as a Computer Science Expert, contributing to large-scale AI evaluation and data systems.

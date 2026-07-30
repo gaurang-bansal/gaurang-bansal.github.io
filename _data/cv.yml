@@ -34,25 +34,25 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Founder & CEO
-      institution: Stealth Startup
+    - title: Founder
+      institution: AdScrape
       year: 2025–Present
       description:
-        - Building AI products at the intersection of GenAI and SaaS
-    - title: Partner
-      institution: Aiqwip
+        - Meta Ad Library intelligence platform and API (Facebook & Instagram ads)
+    - title: Computer Science Expert
+      institution: Turing
       year: 2025–Present
       description:
-        - GenAI, ML, deep analytics, and SaaS solution design
+        - Large-scale AI evaluation and data generation systems
     - title: Co-Founder
       institution: QuickAds
-      year: 2024–2025
+      year: 2024–Aug 2025
       description:
         - AI ad generation platform for image and video creatives
         - Stevie Award for AI innovation
     - title: Director
       institution: Vedastu Applications Pvt. Ltd.
-      year: 2024–2025
+      year: 2024–Aug 2025
       description:
         - Leadership and product direction
     - title: Research Collaborator
@@ -93,4 +93,5 @@
   type: list
   contents:
     - Building and scaling SaaS products
+    - Advertising intelligence and ad research tooling
     - Research-to-product translation

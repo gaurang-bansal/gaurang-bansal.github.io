@@ -8,10 +8,10 @@ middle_name:
 last_name: Bansal
 email: gaurangbansal18@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Founder & AI product builder | Google PhD Fellow | PhD in ECE, NUS. Partner at Aiqwip; previously co-founded QuickAds.
+  Founder of AdScrape | CS Expert at Turing | Google PhD Fellow | PhD in ECE, NUS. Previously co-founded QuickAds.
 footer_text: >
   Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
-keywords: gaurang bansal, quickads, aiqwip, google phd fellow, nus, generative ai, machine learning, cybersecurity
+keywords: gaurang bansal, adscrape, turing, quickads, google phd fellow, nus, generative ai, machine learning, cybersecurity
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -104,7 +104,7 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://aiqwip.com # work page URL
+work_url: https://www.adscrape.in/ # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username

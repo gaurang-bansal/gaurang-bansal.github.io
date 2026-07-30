@@ -5,10 +5,10 @@ permalink: /quickads/
 nav: true
 nav_order: 4
 toc: false
-description: AI ad generation platform co-founded by Gaurang Bansal.
+description: AI ad generation platform previously co-founded by Gaurang Bansal (through Aug 2025).
 ---
 
-**[QuickAds](https://www.quickads.ai/)** is an AI-powered advertising platform that Gaurang co-founded, built to make high-quality image and video ad creation fast and accessible for D2C brands and growth teams.
+**[QuickAds](https://www.quickads.ai/)** is an AI-powered advertising platform that Gaurang previously co-founded (through August 2025), built to make high-quality image and video ad creation fast and accessible for D2C brands and growth teams.
 
 ### What it does
 
