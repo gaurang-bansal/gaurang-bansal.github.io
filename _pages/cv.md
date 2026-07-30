@@ -11,13 +11,13 @@ description: Curriculum Vitae (PDF)
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="0;url={{ '/assets/pdf/Gaurang_Bansal_CV.pdf' | relative_url }}">
-    <link rel="canonical" href="{{ '/assets/pdf/Gaurang_Bansal_CV.pdf' | absolute_url }}">
+    <meta http-equiv="refresh" content="0;url=/assets/pdf/Gaurang_Bansal_CV.pdf">
+    <link rel="canonical" href="https://gaurang-bansal.github.io/assets/pdf/Gaurang_Bansal_CV.pdf">
     <title>CV · Gaurang Bansal</title>
   </head>
   <body>
     <p>
-      <a href="{{ '/assets/pdf/Gaurang_Bansal_CV.pdf' | relative_url }}">Open CV (PDF)</a>
+      <a href="/assets/pdf/Gaurang_Bansal_CV.pdf">Open CV (PDF)</a>
     </p>
   </body>
 </html>

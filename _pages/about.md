@@ -53,5 +53,5 @@ Earlier, I was a Research Collaborator at [Google](https://about.google/) on aut
   <a class="btn btn-primary btn-sm z-depth-0" href="https://adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a>
   <a class="btn btn-outline-primary btn-sm z-depth-0" href="/publications/">Publications</a>
   <a class="btn btn-outline-primary btn-sm z-depth-0" href="/projects/">Projects</a>
-  <a class="btn btn-outline-primary btn-sm z-depth-0" href="{{ '/assets/pdf/Gaurang_Bansal_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a>
+  <a class="btn btn-outline-primary btn-sm z-depth-0" href="/assets/pdf/Gaurang_Bansal_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>
 </p>
