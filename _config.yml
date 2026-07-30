@@ -8,10 +8,10 @@ middle_name:
 last_name: Bansal
 email: gaurangbansal18@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Founder of AdScrape | CS Expert at Turing | Google PhD Fellow | PhD in ECE, NUS. Previously co-founded QuickAds.
+  Founder of AdScrape | CS Expert at Turing | Google PhD Fellow | IEEE Senior Member | PhD, NUS. 2,200+ citations.
 footer_text: >
   Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
-keywords: gaurang bansal, adscrape, turing, quickads, google phd fellow, nus, generative ai, machine learning, cybersecurity
+keywords: gaurang bansal, adscrape, turing, quickads, google phd fellow, ieee senior member, nus, generative ai, machine learning, cybersecurity
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

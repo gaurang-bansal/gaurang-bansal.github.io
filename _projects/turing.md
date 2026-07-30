@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Turing
-description: Computer Science Expert contributing to large-scale AI evaluation systems.
+description: CS Expert building large-scale AI evaluation and multimodal agent training systems.
 img:
 importance: 2
 category: Product
+redirect: https://www.turing.com/
 ---
 
-Computer Science Expert at [Turing](https://www.turing.com/), working on large-scale RL environments and data generation systems that train multimodal agents for coding, real-world tasks, and advanced STEM reasoning.
+Computer Science Expert at [Turing](https://www.turing.com/), contributing to RL environments and data systems that train multimodal agents for coding, real-world tasks, and STEM reasoning.

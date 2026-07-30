@@ -2,7 +2,7 @@
 layout: page
 title: QuickAds
 permalink: /quickads/
-nav: true
+nav: false
 nav_order: 4
 toc: false
 description: AI ad generation platform previously co-founded by Gaurang Bansal (through Aug 2025).
