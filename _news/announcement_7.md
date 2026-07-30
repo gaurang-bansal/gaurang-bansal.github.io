@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚀 Building [AdScrape](https://www.adscrape.in/) — a Meta Ad Library intelligence platform and API for Facebook & Instagram ad research.
+🚀 Building [AdScrape](https://adscrape.in/) — a Meta Ad Library intelligence platform and API for Facebook & Instagram ad research.

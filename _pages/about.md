@@ -2,7 +2,7 @@
 layout: about
 title: <strong>About</strong>
 permalink: /
-subtitle: <a href="https://www.adscrape.in/">AdScrape</a> • <a href="https://www.turing.com/">Turing × Anthropic</a> • <a href="https://nus.edu.sg">PhD, NUS</a> • Google PhD Fellow • IEEE Senior Member
+subtitle: <a href="https://adscrape.in/">AdScrape</a> • <a href="https://www.turing.com/">Turing × Anthropic</a> • <a href="https://nus.edu.sg">PhD, NUS</a> • Google PhD Fellow • IEEE Senior Member
 
 profile:
   align: right
@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Founder of [AdScrape](https://www.adscrape.in/)** — Meta Ad Library intelligence for Facebook & Instagram research (dashboard + API).
+**Founder of [AdScrape](https://adscrape.in/)** — Meta Ad Library intelligence for Facebook & Instagram research (dashboard + API).
 
 **Computer Science Expert at [Turing](https://www.turing.com/)**, working with **[Anthropic](https://www.anthropic.com/)** on **Claude Opus** models (Opus 4.5, 4.6, through 4.8 / Fable). Focus: finding where frontier models fail—and making them better—across data science, machine learning, research-paper workflows, and multimedia.
 
@@ -27,7 +27,7 @@ Ph.D. in Electrical and Computer Engineering from [NUS](https://nus.edu.sg) (202
 Earlier: Research Collaborator at [Google](https://about.google/) (phishing detection with [Sai Teja Peddinti](https://sites.google.com/site/psaiteja/home)); Editor, ACM XRDS Magazine; engineering at [DRIFE](https://www.drife.io).
 
 <p class="cta-row">
-  <a class="btn btn-primary btn-sm z-depth-0" href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">Try AdScrape</a>
+  <a class="btn btn-primary btn-sm z-depth-0" href="https://adscrape.in/" target="_blank" rel="noopener noreferrer">Try AdScrape</a>
   <a class="btn btn-outline-primary btn-sm z-depth-0" href="{{ '/projects/' | relative_url }}">View projects</a>
   <a class="btn btn-outline-primary btn-sm z-depth-0" href="{{ '/cv/' | relative_url }}">CV</a>
 </p>

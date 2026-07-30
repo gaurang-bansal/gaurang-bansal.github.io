@@ -7,7 +7,7 @@ importance: 2
 category: Product
 ---
 
-**Founder of [AdScrape](https://www.adscrape.in/)** — Meta Ad Library intelligence for Facebook & Instagram ads.
+**Founder of [AdScrape](https://adscrape.in/)** — Meta Ad Library intelligence for Facebook & Instagram ads.
 
 ### Product
 
@@ -17,7 +17,7 @@ category: Product
 
 ### Links
 
-- [Website](https://www.adscrape.in/)
-- [API docs](https://www.adscrape.in/docs)
-- [Pricing](https://www.adscrape.in/pricing)
-- [Sign up](https://www.adscrape.in/signup)
+- [Website](https://adscrape.in/)
+- [API docs](https://adscrape.in/docs)
+- [Pricing](https://adscrape.in/pricing)
+- [Sign up](https://adscrape.in/signup)
