@@ -4,7 +4,7 @@
 
 title: Gaurang Bansal # the website title (if blank, full name will be used instead)
 first_name: Gaurang
-middle_name: 
+middle_name:
 last_name: Bansal
 email: gaurangbansal18@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -72,7 +72,7 @@ og_image: assets/img/gaurang.png # The site-wide (default for all links) Open Gr
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
-dblp_url:  # your DBLP profile url
+dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
@@ -111,7 +111,6 @@ zotero_username: # your zotero username
 
 contact_note: >
   Feel free to reach out for collaborations, research, or product work.
-
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -361,7 +360,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit:  # leave blank to always show all authors
+max_author_limit: # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.

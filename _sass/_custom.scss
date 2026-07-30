@@ -66,7 +66,9 @@
 
 .projects .card {
   animation-delay: 0.12s;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
 }
 
 .projects .card:hover {
@@ -83,7 +85,10 @@
 }
 
 .btn {
-  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    background-color 0.2s ease;
 }
 
 .btn:hover {
@@ -91,7 +96,9 @@
 }
 
 .navbar .nav-item .nav-link {
-  transition: color 0.2s ease, opacity 0.2s ease;
+  transition:
+    color 0.2s ease,
+    opacity 0.2s ease;
 }
 
 @media (prefers-reduced-motion: reduce) {

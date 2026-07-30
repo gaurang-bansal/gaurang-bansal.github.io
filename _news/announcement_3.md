@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 🏆 QuickAds makes history as the best launch ever on Appsumo, setting a new sales milestone!
-
-
