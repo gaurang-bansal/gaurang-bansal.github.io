@@ -21,6 +21,10 @@ category: Industry
   </p>
 </div>
 
+<figure class="case-shot case-shot-sm">
+  <img src="{{ 'assets/img/turing-logo.png' | relative_url }}" alt="Turing logo" loading="lazy" style="background:#000;border-radius:12px;padding:0.6rem;">
+</figure>
+
 ### About Turing
 
 Turing supports customers in two ways:

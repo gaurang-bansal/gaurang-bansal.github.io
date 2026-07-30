@@ -1,5 +1,7 @@
 {% if site.email %}
-  <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+  <a href="mailto:{{ site.email | encode_email }}" title="Gmail" class="social-gmail" aria-label="Gmail">
+    <i class="fa-brands fa-google"></i>
+  </a>
 {% endif %}
 {% if site.telegram_username %}
   <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
@@ -11,7 +13,13 @@
   <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
 {% endif %}
 {% if site.scholar_userid %}
-  <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+  <a
+    href="https://scholar.google.com/citations?user={{ site.scholar_userid }}"
+    title="Google Scholar"
+    class="social-scholar"
+    aria-label="Google Scholar"
+    ><i class="ai ai-google-scholar"></i
+  ></a>
 {% endif %}
 {% if site.semanticscholar_id %}
   <a href="https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
@@ -62,8 +70,27 @@
   <a href="{{ site.blogger_url }}" title="Blogger"><i class="fa-brands fa-blogger-b"></i></a>
 {% endif %}
 {% if site.work_url %}
-  <a href="{{ site.work_url }}" title="AdScrape" class="social-brand social-adscrape" aria-label="AdScrape">
+  <a
+    href="{{ site.work_url }}"
+    title="AdScrape"
+    class="social-brand social-adscrape"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="AdScrape"
+  >
     <img src="{{ 'assets/img/adscrape-logo.png' | relative_url }}" alt="AdScrape" width="40" height="40" loading="lazy">
+  </a>
+{% endif %}
+{% if site.turing_url %}
+  <a
+    href="{{ site.turing_url }}"
+    title="Turing"
+    class="social-brand social-turing"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Turing"
+  >
+    <img src="{{ 'assets/img/turing-logo.png' | relative_url }}" alt="Turing" width="40" height="40" loading="lazy">
   </a>
 {% endif %}
 {% if site.wikidata_id %}

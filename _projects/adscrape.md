@@ -33,7 +33,9 @@ category: Product
   <div><strong>$49</strong><span>Plans from / mo</span></div>
 </div>
 
-{% include figure.liquid path="assets/img/adscrape-logo.png" class="case-logo img-fluid rounded" alt="AdScrape" %}
+<figure class="case-shot">
+  <img src="{{ 'assets/img/adscrape-logo.png' | relative_url }}" alt="AdScrape logo" class="case-logo" loading="lazy">
+</figure>
 
 ### Problem
 

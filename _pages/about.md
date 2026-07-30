@@ -4,11 +4,15 @@ title: <strong>About</strong>
 permalink: /
 subtitle: >-
   Founder,
-  <a class="role-chip" href="https://adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a>
+  <a class="role-chip role-chip-logo" href="https://adscrape.in/" target="_blank" rel="noopener noreferrer" title="AdScrape">
+    <img src="/assets/img/adscrape-logo.png" alt="AdScrape" class="role-logo" width="88" height="28">
+  </a>
   · CS Expert,
-  <a class="role-chip" href="https://www.turing.com/" target="_blank" rel="noopener noreferrer">Turing</a>
+  <a class="role-chip role-chip-logo" href="https://www.turing.com/" target="_blank" rel="noopener noreferrer" title="Turing">
+    <img src="/assets/img/turing-logo.png" alt="Turing" class="role-logo role-logo-turing" width="28" height="28">
+  </a>
   ·
-  <a class="role-chip" href="https://research.google/outreach/phd-fellowship/recipients" target="_blank" rel="noopener noreferrer">Google PhD Fellow</a>
+  <a class="role-chip" href="https://research.google/outreach/phd-fellowship/recipients" target="_blank" rel="noopener noreferrer">Google PhD</a>
   · Ph.D.,
   <a class="role-chip" href="https://nus.edu.sg" target="_blank" rel="noopener noreferrer">NUS</a>
 
