@@ -18,7 +18,7 @@ I build AI products and advance research at the intersection of machine learning
 
 <div class="impact-strip" aria-label="Impact highlights">
   <div class="impact-card">
-    <span class="impact-value" data-count="34" data-suffix="+">0</span>
+    <span class="impact-value" data-count="30" data-suffix="+">0</span>
     <span class="impact-label">Publications</span>
   </div>
   <div class="impact-card">
@@ -27,7 +27,7 @@ I build AI products and advance research at the intersection of machine learning
   </div>
   <div class="impact-card">
     <span class="impact-value" data-count="2" data-suffix="">0</span>
-    <span class="impact-label">Products founded</span>
+    <span class="impact-label">Products shipped</span>
   </div>
   <div class="impact-card">
     <span class="impact-value" data-count="8" data-suffix="+">0</span>
@@ -37,7 +37,7 @@ I build AI products and advance research at the intersection of machine learning
 
 I previously **co-founded [QuickAds](https://www.quickads.ai/)**, an AI platform for image and video ad generation that earned a Stevie Award for AI innovation, and served as Director at Vedastu Applications Pvt. Ltd. I left both roles in August 2025 to focus on AdScrape and frontier-model evaluation work.
 
-On the academic side, I completed a **Ph.D. in Electrical and Computer Engineering** at the [National University of Singapore (NUS)](https://nus.edu.sg) (2020–2025), supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients) and the [NUS President Fellowship](https://cde.nus.edu.sg/ece/graduate/scholarship-financial-support). I hold M.E. and B.E. degrees in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in). My research in machine learning, cryptography, privacy, and web security includes **34+ publications** and **2,200+ citations** on [Google Scholar](https://scholar.google.com/citations?user=A-t6Ds8AAAAJ&hl=en). I am an **IEEE Senior Member**.
+On the academic side, I completed a **Ph.D. in Electrical and Computer Engineering** at the [National University of Singapore (NUS)](https://nus.edu.sg) (2020–2025), supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients) and the [NUS President Fellowship](https://cde.nus.edu.sg/ece/graduate/scholarship-financial-support). I hold M.E. and B.E. degrees in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in). My research in machine learning, cryptography, privacy, and web security includes **30+ publications** listed here (full record on [Google Scholar](https://scholar.google.com/citations?user=A-t6Ds8AAAAJ&hl=en), **2,200+ citations**). I am an **IEEE Senior Member**.
 
 Earlier, I was a Research Collaborator at [Google](https://about.google/) on automated phishing detection (with [Sai Teja Peddinti](https://sites.google.com/site/psaiteja/home)), an Editor for ACM XRDS Magazine, and an engineer at [DRIFE](https://www.drife.io). I work across Python (FastAPI), PostgreSQL, Next.js, React, and modern AI/ML stacks.
 

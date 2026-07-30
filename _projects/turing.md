@@ -4,7 +4,7 @@ title: Turing × Anthropic
 description: Claude Opus 4.5→4.8/Fable — find model failures, improve DS/ML/research/multimedia performance.
 img: assets/img/projects/turing-anthropic.png
 importance: 2
-category: Product
+category: Industry
 ---
 
 As a **Computer Science Expert at [Turing](https://www.turing.com/)**, I collaborate on **[Anthropic](https://www.anthropic.com/) Claude Opus** frontier models — including **Opus 4.5, 4.6, and 4.8 (Fable)**.

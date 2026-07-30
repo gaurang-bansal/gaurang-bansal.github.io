@@ -5,14 +5,14 @@ permalink: /projects/
 description: Selected product and research work with live demos, APIs, and publications — built end-to-end.
 nav: true
 nav_order: 3
-display_categories: [Product, Research]
+display_categories: [Product, Industry, Research]
 horizontal: true
 ---
 
 <div class="projects-intro">
   <p>
-    Selected work spanning <strong>shipped products</strong> and <strong>peer-reviewed research</strong>.
-    Each project links to live demos, docs, or publications where available.
+    Selected work spanning <strong>shipped products</strong>, <strong>industry AI evaluation</strong>, and <strong>peer-reviewed research</strong>.
+    Open a card for problem, approach, outcomes, and live links.
   </p>
 </div>
 

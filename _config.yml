@@ -49,7 +49,7 @@ navbar_fixed: true
 footer_fixed: false
 search_enabled: false
 socials_in_search: false
-bib_search: false
+bib_search: true
 
 # Dimensions
 max_width: 930px
@@ -191,7 +191,7 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 4 # leave blank to include all the news in the `_news` folder
 
@@ -618,19 +618,6 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+# resume.json removed — CV is driven by _data/cv.yml
+jekyll_get_json: []
+jsonresume: []

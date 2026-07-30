@@ -18,7 +18,7 @@ Doctoral and collaborative research on **securing UAV and IoT networks** — aut
 ### Outcomes
 
 - Papers in **IEEE Transactions on Vehicular Technology**, **IEEE Network**, **IEEE IoT** venues, and ACM
-- Part of a broader portfolio with **34+ publications** and **2,200+ citations**
+- Part of a broader portfolio with **30+ listed publications** and **2,200+ citations** on Scholar
 
 ### Links
 
