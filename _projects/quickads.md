@@ -13,4 +13,4 @@ Includes a Discover ad library and automation workflows for D2C teams. Launched 
 
 **Stack:** FastAPI, PostgreSQL, Next.js, React, AWS, OpenAI APIs
 
-More detail: [QuickAds page]({{ '/quickads/' | relative_url }})
+More detail: [QuickAds page](/quickads/)

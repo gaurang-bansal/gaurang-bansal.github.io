@@ -29,8 +29,8 @@ QuickAds launched on AppSumo in 2024, became a standout launch there, and later 
 <p>A deck covering QuickAds features, positioning, and product value.</p>
 
 <div style="width: 100%; height: 800px; border: 1px solid #ccc; margin-bottom: 50px;">
-    <iframe src="{{ '/assets/pdf/demo.pdf' | relative_url }}" style="width: 100%; height: 100%;" title="QuickAds overview presentation">
-        Your browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/assets/pdf/demo.pdf' | relative_url }}">Download PDF</a>.
+    <iframe src="/assets/pdf/demo.pdf" style="width: 100%; height: 100%;" title="QuickAds overview presentation">
+        Your browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/demo.pdf">Download PDF</a>.
     </iframe>
 </div>
 

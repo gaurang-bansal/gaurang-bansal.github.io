@@ -28,6 +28,6 @@ Earlier: Research Collaborator at [Google](https://about.google/) (phishing dete
 
 <p class="cta-row">
   <a class="btn btn-primary btn-sm z-depth-0" href="https://adscrape.in/" target="_blank" rel="noopener noreferrer">Try AdScrape</a>
-  <a class="btn btn-outline-primary btn-sm z-depth-0" href="{{ '/projects/' | relative_url }}">View projects</a>
-  <a class="btn btn-outline-primary btn-sm z-depth-0" href="{{ '/cv/' | relative_url }}">CV</a>
+  <a class="btn btn-outline-primary btn-sm z-depth-0" href="/projects/">View projects</a>
+  <a class="btn btn-outline-primary btn-sm z-depth-0" href="/cv/">CV</a>
 </p>
