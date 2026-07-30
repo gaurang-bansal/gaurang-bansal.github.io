@@ -717,8 +717,48 @@ html[data-theme="dark"] .social .contact-icons a[title="X"] i::before {
   }
 }
 
-.case-shot-sm img {
-  max-width: 280px;
+.case-shot-illust {
+  background: #f8fafc;
+  border-radius: 16px;
+  padding: 1.25rem;
+  text-align: center;
+}
+
+.case-shot-illust img {
+  max-height: 360px;
+  width: auto !important;
+  max-width: 100%;
+  margin: 0 auto;
+  object-fit: contain;
+  box-shadow: none;
+  border: none;
+}
+
+.case-shot-grid.case-shot-illust {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  align-items: center;
+}
+
+.case-shot-grid.case-shot-illust img {
+  max-height: 220px;
+}
+
+/* Text-first project cards (no weak thumbnails) */
+.project-card .row > .col-md-12 .project-card-body,
+.project-card-body {
+  min-height: 0;
+  padding: 1.5rem 1.55rem !important;
+}
+
+.project-card .card-title {
+  font-size: 1.35rem;
+  margin-bottom: 0.55rem;
+}
+
+.project-card .card-text {
+  max-width: 40rem;
 }
 
 .case-note {

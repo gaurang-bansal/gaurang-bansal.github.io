@@ -2,7 +2,6 @@
 layout: page
 title: QuickAds
 description: Co-founder — AI performance creative. 30M+ ad insights, 30K+ brands, Stevie Award, Kae Capital–backed.
-img: assets/img/projects/quickads.png
 importance: 2
 category: Product
 ---
@@ -32,8 +31,8 @@ category: Product
 </div>
 
 <figure class="case-shot">
-  <img src="{{ 'assets/img/projects/screens/quickads-collage.png' | relative_url }}" alt="QuickAds multi-format creative platform overview" loading="lazy">
-  <figcaption>Multi-format creatives, platform coverage, and product photography workflows.</figcaption>
+  <img src="{{ 'assets/img/projects/screens/quickads-hero.png' | relative_url }}" alt="QuickAds product homepage" loading="lazy">
+  <figcaption>Live product — performance creative powered by 30M+ ad insights.</figcaption>
 </figure>
 
 ### State of the art (and the gap)
@@ -48,11 +47,6 @@ Legacy “ad spy” tools stop at inspiration. Traditional agencies are slow and
 - Helped ship Discover (multi-platform ad intelligence), brand kits from URL, and multi-format export
 - Built on FastAPI, PostgreSQL, Next.js/React, AWS, and LLM APIs
 - Supported AppSumo launch momentum and recognition (Stevie Award; VC-backed growth with Kae Capital)
-
-<figure class="case-shot">
-  <img src="{{ 'assets/img/projects/screens/quickads-banner.png' | relative_url }}" alt="QuickAds product marketing banner" loading="lazy">
-  <figcaption>Product positioning: one-stop creative generation for performance marketers.</figcaption>
-</figure>
 
 ### What shipped
 

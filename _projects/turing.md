@@ -2,7 +2,6 @@
 layout: page
 title: Turing
 description: CS Expert — frontier AI research acceleration via high-quality evaluation data, pipelines, and expert critique.
-img: assets/img/projects/turing-anthropic.png
 importance: 1
 category: Industry
 ---

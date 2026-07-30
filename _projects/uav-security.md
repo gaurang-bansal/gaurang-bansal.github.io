@@ -2,7 +2,6 @@
 layout: page
 title: Secure UAV & IoT Systems
 description: Doctoral research — PUF/crypto authentication & attestation for UAV swarms and constrained IoT networks.
-img: assets/img/projects/uav-security.png
 importance: 2
 category: Research
 ---
@@ -31,9 +30,9 @@ category: Research
   <div><strong>PUF</strong><span>Lightweight auth</span></div>
 </div>
 
-<figure class="case-shot">
+<figure class="case-shot case-shot-illust">
   <img src="{{ 'assets/img/projects/screens/uav-network.png' | relative_url }}" alt="UAV network applications and security risks overview" loading="lazy">
-  <figcaption>UAV networks enable logistics, agriculture, survey, and emergency response — and face auth, interference, and physical-capture risks.</figcaption>
+  <figcaption>UAV applications and security risks — authentication, interference, and physical capture.</figcaption>
 </figure>
 
 ### State of the art (and the gap)

@@ -2,7 +2,6 @@
 layout: page
 title: PhishNet
 description: Google × NUS research — unsupervised / LLM phishing detection with a real-time Chrome plugin path.
-img: assets/img/projects/phishnet.png
 importance: 1
 category: Research
 ---
@@ -31,10 +30,11 @@ category: Research
   <div><strong>LLMs</strong><span>+ vision pipeline</span></div>
 </div>
 
-<figure class="case-shot case-shot-grid">
-  <img src="{{ 'assets/img/projects/screens/phishnet-1.png' | relative_url }}" alt="Phishing attack metaphor — credential harvest" loading="lazy">
+<figure class="case-shot case-shot-illust case-shot-grid">
+  <img src="{{ 'assets/img/projects/screens/phishnet-1.png' | relative_url }}" alt="Phishing credential harvest metaphor" loading="lazy">
   <img src="{{ 'assets/img/projects/screens/phishnet-2.png' | relative_url }}" alt="Inspecting deceptive login pages" loading="lazy">
-  <figcaption>Threat model: deceptive login UX and credential theft — what detection must interrupt in real time.</figcaption>
+  <img src="{{ 'assets/img/projects/screens/phishnet-3.png' | relative_url }}" alt="Data theft from compromised sessions" loading="lazy">
+  <figcaption>Threat model illustrations — deceptive logins and credential / data theft.</figcaption>
 </figure>
 
 ### State of the art (and the gap)
@@ -50,11 +50,6 @@ Classic defenses rely on **URL blacklists** and supervised classifiers trained o
 - Integrated an LLM-assisted analysis path for page/URL semantics
 - Prototyped a **Chrome extension** for real-time URL verification with server-side inference
 - Collaborated with Google and NUS researchers on evaluation against strong baselines
-
-<figure class="case-shot">
-  <img src="{{ 'assets/img/projects/screens/phishnet-3.png' | relative_url }}" alt="Data exfiltration risk from compromised sessions" loading="lazy">
-  <figcaption>Why precision matters: phishing is a gateway to identity and data theft.</figcaption>
-</figure>
 
 ### Approach
 

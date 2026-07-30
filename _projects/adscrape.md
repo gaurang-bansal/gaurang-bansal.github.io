@@ -2,7 +2,6 @@
 layout: page
 title: AdScrape
 description: Founder — Meta Ad Library intelligence. Dashboard + REST API over 240M+ Facebook & Instagram ads.
-img: assets/img/projects/adscrape.png
 importance: 1
 category: Product
 ---
@@ -32,11 +31,6 @@ category: Product
   <div><strong>$49</strong><span>Plans from / mo</span></div>
 </div>
 
-<figure class="case-shot">
-  <img src="{{ 'assets/img/projects/screens/adscrape-search.png' | relative_url }}" alt="AdScrape search and data extraction concept" loading="lazy">
-  <figcaption>Search, inspect, and extract structured Meta Ad Library data — dashboard and API.</figcaption>
-</figure>
-
 ### State of the art (and the gap)
 
 Meta’s Ad Library is a public transparency tool, but the native UI is **browser-only**: no reliable bulk pagination, no stable creative CDN, no brand→Page ID typeahead API, and no always-on competitor watches. Typical scrapers are infrastructure-only (proxies, brittle Selenium). Graph API access requires apps, review, and quotas.
@@ -50,9 +44,9 @@ Meta’s Ad Library is a public transparency tool, but the native UI is **browse
 - Built brand typeahead, cursor pagination (≤500 ads/call), cloaked media download, and weekly brand/keyword intel reports
 - Positioned against scrapers and Graph: no Graph token, managed infra included
 
-<figure class="case-shot">
-  <img src="{{ 'assets/img/projects/screens/adscrape-api.png' | relative_url }}" alt="AdScrape API capabilities — CAPTCHA bypass, proxy management, fingerprinting" loading="lazy">
-  <figcaption>API surface: managed scraping concerns (CAPTCHA, proxies, fingerprinting) behind one key.</figcaption>
+<figure class="case-shot case-shot-illust">
+  <img src="{{ 'assets/img/projects/screens/adscrape-api.png' | relative_url }}" alt="AdScrape managed scraping API features" loading="lazy">
+  <figcaption>Managed scraping concerns (CAPTCHA, proxies, fingerprinting) exposed as a clean API.</figcaption>
 </figure>
 
 ### What ships today
