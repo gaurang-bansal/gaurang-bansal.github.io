@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Product builds and research with measurable outcomes — from AdScrape and Claude Opus evaluation to IEEE publications.
+description: Selected product and research work with live demos, APIs, and publications — built end-to-end.
 nav: true
 nav_order: 3
 display_categories: [Product, Research]

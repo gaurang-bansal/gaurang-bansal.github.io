@@ -16,6 +16,25 @@ social: true # includes social icons at the bottom of the page
 
 I build AI products and advance research at the intersection of machine learning, security, and real-world systems. I am the **Founder of [AdScrape](https://adscrape.in/)**, a Meta Ad Library intelligence platform (dashboard + API) for Facebook and Instagram ad research. As a **Computer Science Expert at [Turing](https://www.turing.com/)**, I work with **[Anthropic](https://www.anthropic.com/)** on **Claude Opus** models (4.5, 4.6, and 4.8 / Fable)—systematically finding where frontier models fail and improving them across data science, machine learning, research-paper workflows, and multimedia.
 
+<div class="impact-strip" aria-label="Impact highlights">
+  <div class="impact-card">
+    <span class="impact-value" data-count="34" data-suffix="+">0</span>
+    <span class="impact-label">Publications</span>
+  </div>
+  <div class="impact-card">
+    <span class="impact-value" data-count="2200" data-suffix="+">0</span>
+    <span class="impact-label">Citations</span>
+  </div>
+  <div class="impact-card">
+    <span class="impact-value" data-count="2" data-suffix="">0</span>
+    <span class="impact-label">Products founded</span>
+  </div>
+  <div class="impact-card">
+    <span class="impact-value" data-count="8" data-suffix="+">0</span>
+    <span class="impact-label">Years building</span>
+  </div>
+</div>
+
 I previously **co-founded [QuickAds](https://www.quickads.ai/)**, an AI platform for image and video ad generation that earned a Stevie Award for AI innovation, and served as Director at Vedastu Applications Pvt. Ltd. I left both roles in August 2025 to focus on AdScrape and frontier-model evaluation work.
 
 On the academic side, I completed a **Ph.D. in Electrical and Computer Engineering** at the [National University of Singapore (NUS)](https://nus.edu.sg) (2020–2025), supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients) and the [NUS President Fellowship](https://cde.nus.edu.sg/ece/graduate/scholarship-financial-support). I hold M.E. and B.E. degrees in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in). My research in machine learning, cryptography, privacy, and web security includes **34+ publications** and **2,200+ citations** on [Google Scholar](https://scholar.google.com/citations?user=A-t6Ds8AAAAJ&hl=en). I am an **IEEE Senior Member**.
