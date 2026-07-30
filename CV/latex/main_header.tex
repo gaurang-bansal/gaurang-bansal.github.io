@@ -1,0 +1,36 @@
+% Drop into your YAAC main .tex (header + document skeleton)
+\documentclass[localFont,alternative]{documentMETADATA}
+\name{Gaurang}{Bansal}
+\tagline{Founder, AdScrape | Computer Science Expert, Turing \\ IEEE Senior Member | Google PhD Fellow | Ph.D., NUS}
+
+\socialinfo{
+	\personalLink{gaurang-bansal.github.io}
+	\email{gaurangbansal18@gmail.com}\\
+	\linkedin{gaurang18}
+	\github{gaurang18}
+	\gscholar{citations?user=A-t6Ds8AAAAJ}
+}
+
+\addbibresource{mypublications.bib}
+\begin{document}
+
+	\makecvheader
+
+	\makecvfooter
+		{\textsc{}}
+		{\textsc{Gaurang Bansal - CV}}
+		{\thepage}
+
+	\input{section_headline}                % Professional Summary
+	\input{section_education}
+	\input{section_experience}
+	\input{section_leadership}              % Leadership & Service
+	\input{section_publications}
+	\nocite{*}
+
+	\input{section_skills}
+	\input{section_interets}
+	\input{section_awards}
+	\input{section_references}
+
+\end{document}

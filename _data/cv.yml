@@ -55,6 +55,33 @@
     - title: B.E., Computer Science
       institution: BITS Pilani
       year: 2014–2018
+- title: Leadership & Service
+  type: time_table
+  contents:
+    - title: Founder
+      institution: AdScrape
+      year: 2025–Present
+      description:
+        - Company founding, product direction, and go-to-market for Meta Ad Library intelligence
+    - title: Co-Founder
+      institution: QuickAds
+      year: 2024–2025
+      description:
+        - Co-led product and engineering for an AI performance-creative platform (Stevie Award; Kae Capital)
+    - title: Director
+      institution: Vedastu Applications Pvt. Ltd.
+      year: 2024–2025
+      description:
+        - Operations, strategy, HR, and technology roadmap
+    - title: Editor
+      institution: ACM XRDS Magazine
+      year: 2021–2024
+    - title: Workshop Co-Chair
+      institution: IEEE PERCOM 2022 · IEEE INFOCOM 2022 · IEEE GLOBECOM 2021
+      year: 2021–2022
+    - title: Technical Program Committee
+      institution: IEEE ICC · IEEE WiMob · IEEE INFOCOM
+      year: Ongoing
 - title: Selected Honors
   type: time_table
   contents:
