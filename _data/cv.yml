@@ -40,10 +40,12 @@
       description:
         - Meta Ad Library intelligence platform and API (Facebook & Instagram ads)
     - title: Computer Science Expert
-      institution: Turing
+      institution: Turing (Anthropic Claude Opus)
       year: 2025–Present
       description:
-        - Large-scale AI evaluation and data generation systems
+        - Evaluated and improved Anthropic Claude Opus models (4.5, 4.6, 4.8 / Fable)
+        - Found failure modes and strengthened performance in data science, ML, research-paper tasks, and multimedia
+        - Large-scale AI evaluation and preference / RL data systems
     - title: Editor
       institution: ACM XRDS Magazine
       year: 2021–2024
