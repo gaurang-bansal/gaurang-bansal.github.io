@@ -1,30 +1,38 @@
 ---
 layout: page
 title: AdScrape
-description: Live Meta Ad Library intelligence — search 240M+ ads via dashboard + REST API.
+description: State-of-the-art Meta Ad Library intelligence — 240M+ ads via dashboard + REST API (no Graph token).
 img: assets/img/projects/adscrape.png
 importance: 1
 category: Product
 ---
 
-**[AdScrape](https://adscrape.in/)** is a Meta Ad Library intelligence platform I founded for Facebook & Instagram competitive research. Most tools force a choice between UI and API — AdScrape ships **both** on one account.
+**[AdScrape](https://adscrape.in/)** is the Meta Ad Library intelligence platform I founded. Native Meta search is a browser-only tool — no bulk export, no stable creatives CDN, no brand→Page ID API, and no automated competitor monitoring. Tools like Metapi are scrape infrastructure only. AdScrape ships a **full product**: polished dashboard **and** REST API on one account.
 
-### Problem
+### Why it wins
 
-Marketers and builders need reliable Meta ad data without Graph API tokens, proxy farms, or brittle scrapers.
+| Capability                         | Meta Ad Library | Typical scrapers | AdScrape      |
+| ---------------------------------- | --------------- | ---------------- | ------------- |
+| Programmatic JSON API              | ❌              | Partial          | ✅            |
+| Dashboard + API, one key           | ❌              | ❌               | ✅            |
+| Brand typeahead → Page ID          | Manual          | Rare             | ✅            |
+| Cursor pagination (≤500 ads/call)  | ❌              | Varies           | ✅            |
+| Stable creative download           | Expiring CDN    | Fragile          | ✅            |
+| Brand & keyword trackers + weekly  | ❌              | ❌               | ✅            |
+| AI competitive ad teardown         | ❌              | ❌               | ✅            |
 
 ### What I built
 
-- **Dashboard** — keyword/brand search, creative research, bookmarks, AI ad analysis, brand & keyword trackers
-- **REST API** — same data for product integrations (`api.adscrape.in`), cursor pagination up to 500 ads/call
-- **Brand typeahead** — resolve company names to Facebook Page IDs
-- **Media download** — image/video creatives for research pipelines
+- **Discover dashboard** — keyword/brand search across **240M+** live Facebook & Instagram ads, bookmarks, notes, CSV/JSON export
+- **REST API** (`api.adscrape.in`) — search, pagination, suggestions, ad detail, media, trackers, billing
+- **AI Analyser** — paste an archive ID / Ad Library URL → strategy, strengths, weaknesses, copy/improve/attack brief
+- **Trackers** — automatic competitor snapshots with weekly intelligence emails
 
 ### Outcomes
 
-- Live product with free signup (**1,000 credits**, no card)
-- Search across **240M+** live Meta ads
-- API + dashboard unified on one key
+- Live SaaS with free trial credits and paid plans from **$49/mo**
+- Unified dashboard + API without Graph developer tokens or proxy farms
+- Built for agencies, growth teams, and builders wiring Meta ads into their own products
 
 ### Links
 

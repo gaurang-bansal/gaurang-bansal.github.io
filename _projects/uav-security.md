@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Secure UAV & IoT Systems
-description: Cryptography and authentication for resource-constrained networks — IEEE TVT, IoT, Network venues.
+description: State-of-the-art auth & privacy for UAV/IoT — IEEE TVT, Network, IoT venues; part of 2,200+ citation record.
 img: assets/img/projects/uav-security.png
-importance: 5
+importance: 2
 category: Research
 ---
 
@@ -11,7 +11,7 @@ Doctoral and collaborative research on **securing UAV and IoT networks** — aut
 
 ### Themes
 
-- UAV–ground and UAV–UAV mutual authentication (e.g. PUF-based designs)
+- UAV–ground and UAV–UAV mutual authentication (e.g. PUF-based designs such as SecAuthUAV)
 - Swarm-scale protocols (authentication, attestation, topology)
 - Blockchain / DAG systems for commerce and energy trading contexts
 
@@ -22,6 +22,6 @@ Doctoral and collaborative research on **securing UAV and IoT networks** — aut
 
 ### Links
 
-- [Publications](/publications/)
+- [Selected Publications](/publications/)
 - [Google Scholar](https://scholar.google.com/citations?user=A-t6Ds8AAAAJ&hl=en)
 - Example: [SecAuthUAV PDF](/assets/pdf/SecAuthUAV.pdf)

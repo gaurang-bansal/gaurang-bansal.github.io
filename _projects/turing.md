@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Turing × Anthropic
-description: Claude Opus 4.5→4.8/Fable — find model failures, improve DS/ML/research/multimedia performance.
+description: Frontier Claude Opus (4.5→4.8/Fable) — expert failure finding across DS, ML, research papers & multimedia.
 img: assets/img/projects/turing-anthropic.png
-importance: 2
+importance: 1
 category: Industry
 ---
 
@@ -11,7 +11,7 @@ As a **Computer Science Expert at [Turing](https://www.turing.com/)**, I collabo
 
 ### Mandate
 
-Find every place the model fails — then make it better.
+Find every place the model fails — then make it better. This is state-of-the-art model evaluation: not leaderboard chasing alone, but expert-grade stress tests that produce high-signal preference / RL data.
 
 ### Focus areas
 
@@ -24,7 +24,7 @@ Find every place the model fails — then make it better.
 
 ### Approach
 
-Systematic evaluation and red-teaming loops: surface hard failures → produce high-signal preference / RL data → measure uplift on expert tasks (not only public benchmarks).
+Systematic evaluation and red-teaming loops: surface hard failures → produce preference / RL training signal → measure uplift on expert tasks that mirror real scientific and engineering work.
 
 ### Links
 

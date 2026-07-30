@@ -3,7 +3,7 @@
 
   function revealOnScroll() {
     const nodes = document.querySelectorAll(
-      ".impact-card, .project-card, .publications ol.bibliography > li, .projects-intro, .pubs-intro, .cta-row"
+      ".impact-card, .project-card, .publications ol.bibliography > li, .projects-intro, .pubs-intro, .page-hero, .cta-row, .role-strip"
     );
     nodes.forEach((el, i) => {
       el.classList.add("reveal");
@@ -34,6 +34,11 @@
     if (!values.length) return;
 
     const run = (el) => {
+      const staticText = el.getAttribute("data-text");
+      if (staticText !== null) {
+        el.textContent = staticText;
+        return;
+      }
       const target = Number(el.getAttribute("data-count") || "0");
       const suffix = el.getAttribute("data-suffix") || "";
       if (reduce) {

@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-description: Current roles, education, and selected experience.
+description: Live structured CV (always current). Use your browser’s Print → Save as PDF for a clean export.
 toc:
   sidebar: left
 ---

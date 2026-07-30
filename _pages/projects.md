@@ -2,18 +2,39 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Selected product and research work with live demos, APIs, and publications — built end-to-end.
+description: State-of-the-art products, industry AI evaluation, and peer-reviewed systems research.
 nav: true
 nav_order: 3
 display_categories: [Product, Industry, Research]
 horizontal: true
 ---
 
-<div class="projects-intro">
-  <p>
-    Selected work spanning <strong>shipped products</strong>, <strong>industry AI evaluation</strong>, and <strong>peer-reviewed research</strong>.
-    Open a card for problem, approach, outcomes, and live links.
+<div class="page-hero projects-hero">
+  <p class="page-kicker">Work</p>
+  <h2 class="page-hero-title">Built end-to-end — from research to shipped systems</h2>
+  <p class="page-hero-lead">
+    Flagship products in ad intelligence &amp; generative creative, frontier-model evaluation with Anthropic via Turing,
+    and security research published in top IEEE/ACM venues.
   </p>
+</div>
+
+<div class="impact-strip" aria-label="Projects highlights">
+  <div class="impact-card">
+    <span class="impact-value" data-count="5" data-suffix="">0</span>
+    <span class="impact-label">Featured case studies</span>
+  </div>
+  <div class="impact-card">
+    <span class="impact-value" data-count="240" data-suffix="M+">0</span>
+    <span class="impact-label">Meta ads searchable</span>
+  </div>
+  <div class="impact-card">
+    <span class="impact-value" data-count="30" data-suffix="M+">0</span>
+    <span class="impact-label">Creative library (QuickAds)</span>
+  </div>
+  <div class="impact-card">
+    <span class="impact-value" data-count="30" data-suffix="+">0</span>
+    <span class="impact-label">Research papers</span>
+  </div>
 </div>
 
 <!-- pages/projects.md -->

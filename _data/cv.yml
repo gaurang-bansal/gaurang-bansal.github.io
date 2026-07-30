@@ -1,78 +1,61 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Gaurang Bansal
-    - name: Email
-      value: gaurangbansal18@gmail.com
-    - name: Website
-      value: https://gaurang-bansal.github.io
-    - name: LinkedIn
-      value: https://www.linkedin.com/in/gaurang18
-    - name: Google Scholar
-      value: https://scholar.google.com/citations?user=A-t6Ds8AAAAJ
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D.
-      institution: National University of Singapore (NUS)
-      year: 2020–2025
-      description:
-        - Electrical and Computer Engineering
-        - Google PhD Fellowship
-        - NUS President Fellowship
-    - title: M.E.
-      institution: BITS Pilani
-      year: 2018–2020
-      description:
-        - Computer Science
-    - title: B.E.
-      institution: BITS Pilani
-      year: 2014–2018
-      description:
-        - Computer Science
 - title: Experience
   type: time_table
   contents:
     - title: Founder
-      institution: AdScrape
+      institution: AdScrape · https://adscrape.in
       year: 2025–Present
       description:
-        - Meta Ad Library intelligence platform and API (Facebook & Instagram ads)
+        - Meta Ad Library intelligence — dashboard + REST API for 240M+ Facebook & Instagram ads
+        - Brand/keyword trackers, AI ad analysis, creative download; no Graph token required
     - title: Computer Science Expert
-      institution: Turing (Anthropic Claude Opus)
+      institution: Turing × Anthropic (Claude Opus)
       year: 2025–Present
       description:
-        - Evaluated and improved Anthropic Claude Opus models (4.5, 4.6, 4.8 / Fable)
-        - Found failure modes and strengthened performance in data science, ML, research-paper tasks, and multimedia
-        - Large-scale AI evaluation and preference / RL data systems
-    - title: Editor
-      institution: ACM XRDS Magazine
-      year: 2021–2024
-      description:
-        - Editorial work for ACM's student magazine
+        - Evaluate and improve Claude Opus 4.5, 4.6, and 4.8 / Fable
+        - Failure modes across data science, ML, research-paper tasks, and multimedia
+        - High-signal preference / RL evaluation for frontier models
     - title: Co-Founder
-      institution: QuickAds
+      institution: QuickAds · https://www.quickads.ai
       year: 2024–Aug 2025
       description:
-        - AI ad generation platform for image and video creatives
-        - Stevie Award for AI innovation
+        - AI image & video ad generation with 30M+ multi-platform creative library
+        - Stevie Award for AI innovation; AppSumo breakout; VC-backed growth (Series A track)
     - title: Director
       institution: Vedastu Applications Pvt. Ltd.
       year: 2024–Aug 2025
       description:
-        - Leadership and product direction
+        - Product leadership and company direction
     - title: Research Collaborator
       institution: Google
       year: 2023–2024
       description:
-        - Automated phishing detection research with Sai Teja Peddinti
+        - Automated phishing detection with Sai Teja Peddinti (research → browser-ready paths)
+    - title: Editor
+      institution: ACM XRDS Magazine
+      year: 2021–2024
+      description:
+        - Editorial work for ACM’s student magazine
     - title: Doctoral Researcher
-      institution: National University of Singapore
+      institution: National University of Singapore (ECE)
       year: 2020–2025
       description:
-        - Machine learning, cryptography, privacy, and web security
-- title: Honors and Awards
+        - Machine learning, cryptography, privacy, and web / IoT / UAV security
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D., Electrical and Computer Engineering
+      institution: National University of Singapore (NUS)
+      year: 2020–2025
+      description:
+        - Google PhD Fellowship
+        - NUS President Fellowship
+    - title: M.E., Computer Science
+      institution: BITS Pilani
+      year: 2018–2020
+    - title: B.E., Computer Science
+      institution: BITS Pilani
+      year: 2014–2018
+- title: Selected Honors
   type: time_table
   contents:
     - year: 2021–2025
@@ -82,24 +65,31 @@
         - IEEE Senior Member
     - year: 2024
       items:
-        - QuickAds Stevie Award for AI innovation
-        - Best AppSumo launch milestone for QuickAds
-- title: Academic Interests
+        - QuickAds — Stevie Award for AI / technology innovation
+        - QuickAds — standout AppSumo launch
+- title: Skills
   type: nested_list
   contents:
-    - title: Artificial Intelligence
+    - title: Product & AI
       items:
-        - Generative AI
-        - Machine Learning
-        - Deep Analytics
-    - title: Security & Systems
+        - Generative AI / LLM evaluation
+        - Ad intelligence & creative systems
+        - End-to-end SaaS (0→1 and scale)
+    - title: Engineering
       items:
-        - Cybersecurity
-        - Cryptography
-        - Privacy-preserving systems
-- title: Other Interests
-  type: list
+        - Python · FastAPI · PostgreSQL
+        - Next.js · React · AWS
+        - Security, cryptography, ML systems
+- title: Contact
+  type: map
   contents:
-    - Building and scaling SaaS products
-    - Advertising intelligence and ad research tooling
-    - Research-to-product translation
+    - name: Email
+      value: gaurangbansal18@gmail.com
+    - name: Website
+      value: https://gaurang-bansal.github.io
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/gaurang18
+    - name: Google Scholar
+      value: https://scholar.google.com/citations?user=A-t6Ds8AAAAJ
+    - name: AdScrape
+      value: https://adscrape.in/

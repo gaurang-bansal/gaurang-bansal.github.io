@@ -1,18 +1,18 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Selected Publications
 description: 30+ peer-reviewed papers · 2,200+ citations · security, ML, IoT, and generative AI.
 nav: true
 nav_order: 2
 ---
 
-<div class="pubs-intro">
-  <p>
+<div class="page-hero pubs-hero">
+  <p class="page-kicker">Research</p>
+  <p class="page-hero-lead">
     A research portfolio spanning <strong>UAV/IoT security</strong>, <strong>cryptography</strong>,
     <strong>machine learning</strong>, and <strong>generative AI</strong> — published in venues such as
     IEEE TVT, IEEE Network, IEEE IoT Magazine, ACM TOMM, and more.
-    Use the search box to filter by title, author, or venue.
   </p>
 </div>
 
@@ -34,6 +34,8 @@ nav_order: 2
     <span class="impact-label">Selected works</span>
   </div>
 </div>
+
+<p class="pubs-search-hint">Filter by title, author, or venue:</p>
 
 {% include bib_search.liquid %}
 
