@@ -745,8 +745,12 @@ html[data-theme="dark"] .social .contact-icons a[title="X"] i::before {
   max-height: 220px;
 }
 
-/* Text-first project cards (no weak thumbnails) */
-.project-card .row > .col-md-12 .project-card-body,
+.project-card-media,
+.project-cover {
+  display: none !important;
+}
+
+.project-card-text .project-card-body,
 .project-card-body {
   min-height: 0;
   padding: 1.5rem 1.55rem !important;

@@ -44,11 +44,6 @@ Meta’s Ad Library is a public transparency tool, but the native UI is **browse
 - Built brand typeahead, cursor pagination (≤500 ads/call), cloaked media download, and weekly brand/keyword intel reports
 - Positioned against scrapers and Graph: no Graph token, managed infra included
 
-<figure class="case-shot case-shot-illust">
-  <img src="{{ 'assets/img/projects/screens/adscrape-api.png' | relative_url }}" alt="AdScrape managed scraping API features" loading="lazy">
-  <figcaption>Managed scraping concerns (CAPTCHA, proxies, fingerprinting) exposed as a clean API.</figcaption>
-</figure>
-
 ### What ships today
 
 | Surface | Capability |

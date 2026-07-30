@@ -1,25 +1,11 @@
 <div class="col mb-4">
   <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}" class="project-card-link">
-    <div class="card h-100 hoverable project-card">
-      <div class="row no-gutters align-items-stretch">
-        {% if project.img %}
-          <div class="col-md-5 project-card-media">
-            <img
-              src="{{ project.img | relative_url }}"
-              class="project-cover"
-              alt="{{ project.title }}"
-              loading="eager"
-            >
-          </div>
-        {% endif %}
-        <div class="{% if project.img %}col-md-7{% else %}col-md-12{% endif %}">
-          <div class="card-body project-card-body">
-            <p class="project-kicker">{{ project.category }}</p>
-            <h3 class="card-title">{{ project.title }}</h3>
-            <p class="card-text">{{ project.description }}</p>
-            <span class="project-cta">View case study →</span>
-          </div>
-        </div>
+    <div class="card h-100 hoverable project-card project-card-text">
+      <div class="card-body project-card-body">
+        <p class="project-kicker">{{ project.category }}</p>
+        <h3 class="card-title">{{ project.title }}</h3>
+        <p class="card-text">{{ project.description }}</p>
+        <span class="project-cta">View case study →</span>
       </div>
     </div>
   </a>

@@ -30,13 +30,6 @@ category: Research
   <div><strong>LLMs</strong><span>+ vision pipeline</span></div>
 </div>
 
-<figure class="case-shot case-shot-illust case-shot-grid">
-  <img src="{{ 'assets/img/projects/screens/phishnet-1.png' | relative_url }}" alt="Phishing credential harvest metaphor" loading="lazy">
-  <img src="{{ 'assets/img/projects/screens/phishnet-2.png' | relative_url }}" alt="Inspecting deceptive login pages" loading="lazy">
-  <img src="{{ 'assets/img/projects/screens/phishnet-3.png' | relative_url }}" alt="Data theft from compromised sessions" loading="lazy">
-  <figcaption>Threat model illustrations — deceptive logins and credential / data theft.</figcaption>
-</figure>
-
 ### State of the art (and the gap)
 
 Classic defenses rely on **URL blacklists** and supervised classifiers trained on large labeled corpora. Attackers evade exact matches by mutating domains, cloning brand logos, and rotating infrastructure. Labeling lags; false positives hurt browser UX.

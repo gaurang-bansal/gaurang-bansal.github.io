@@ -30,11 +30,6 @@ category: Research
   <div><strong>PUF</strong><span>Lightweight auth</span></div>
 </div>
 
-<figure class="case-shot case-shot-illust">
-  <img src="{{ 'assets/img/projects/screens/uav-network.png' | relative_url }}" alt="UAV network applications and security risks overview" loading="lazy">
-  <figcaption>UAV applications and security risks — authentication, interference, and physical capture.</figcaption>
-</figure>
-
 ### State of the art (and the gap)
 
 UAV/IoT deployments need mutual authentication and attestation, but devices are **resource-constrained** and often physically accessible. Classic PKI and heavyweight protocols do not scale to swarms under mobility and failure. PUF-based schemes help bind keys to hardware, yet many assume ideal PUF responses and one-to-one authentication that does not scale.

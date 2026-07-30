@@ -13,8 +13,8 @@ horizontal: true
   <p class="page-kicker">Work</p>
   <h2 class="page-hero-title">Products, frontier AI evaluation, and peer-reviewed systems</h2>
   <p class="page-hero-lead">
-    Detailed case studies with live product data, screenshots, and research outcomes.
-    Open any card for problem, approach, metrics, and links.
+    Detailed case studies spanning shipped products, frontier AI evaluation, and peer-reviewed research.
+    Open any card for problem, approach, contributions, and links.
   </p>
 </div>
 

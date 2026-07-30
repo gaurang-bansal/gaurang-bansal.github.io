@@ -30,11 +30,6 @@ category: Product
   <div><strong>Stevie</strong><span>AI award</span></div>
 </div>
 
-<figure class="case-shot">
-  <img src="{{ 'assets/img/projects/screens/quickads-hero.png' | relative_url }}" alt="QuickAds product homepage" loading="lazy">
-  <figcaption>Live product — performance creative powered by 30M+ ad insights.</figcaption>
-</figure>
-
 ### State of the art (and the gap)
 
 Legacy “ad spy” tools stop at inspiration. Traditional agencies are slow and expensive. Pure AI image tools are fast but often off-brand and still need heavy finishing.
