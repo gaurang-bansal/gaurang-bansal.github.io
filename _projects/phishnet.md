@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PhishNet
-description: Google × NUS research — unsupervised / LLM phishing detection with Chrome plugin path; ~99.6% reported accuracy.
+description: Google × NUS research — unsupervised / LLM phishing detection with a real-time Chrome plugin path.
 img: assets/img/projects/phishnet.png
 importance: 1
 category: Research
@@ -11,7 +11,7 @@ category: Research
 
 <div class="case-hero">
   <p class="case-kicker">Research · Google Collaborator · 2023–2024</p>
-  <h2 class="case-headline">PhishNet — real-time phishing defense</h2>
+  <h2 class="case-headline">PhishNet — catching phishing before users do</h2>
   <p class="case-lead">
     Research collaboration with <a href="https://about.google/" target="_blank" rel="noopener noreferrer">Google</a>
     (<a href="https://sites.google.com/site/psaiteja/home" target="_blank" rel="noopener noreferrer">Sai Teja Peddinti</a>)
@@ -26,38 +26,50 @@ category: Research
 
 <div class="case-stats">
   <div><strong>99.6%</strong><span>Reported accuracy*</span></div>
-  <div><strong>1-shot</strong><span>Deep learning path</span></div>
+  <div><strong>1-shot</strong><span>Learning path</span></div>
   <div><strong>Chrome</strong><span>Plugin prototype</span></div>
   <div><strong>LLMs</strong><span>+ vision pipeline</span></div>
 </div>
 
-### Problem
+<figure class="case-shot case-shot-grid">
+  <img src="{{ 'assets/img/projects/screens/phishnet-1.png' | relative_url }}" alt="Phishing attack metaphor — credential harvest" loading="lazy">
+  <img src="{{ 'assets/img/projects/screens/phishnet-2.png' | relative_url }}" alt="Inspecting deceptive login pages" loading="lazy">
+  <figcaption>Threat model: deceptive login UX and credential theft — what detection must interrupt in real time.</figcaption>
+</figure>
 
-Phishing sites mutate faster than manual blocklists. Systems that depend on large labeled corpora (or exact URL matching) lag behind attackers who clone brands, swap TLDs, and rotate infrastructure. Production defense needs **high precision**, low annotation cost, and signals that generalize to never-before-seen campaigns.
+### State of the art (and the gap)
 
-### PhishNet / PhishDynamics
+Classic defenses rely on **URL blacklists** and supervised classifiers trained on large labeled corpora. Attackers evade exact matches by mutating domains, cloning brand logos, and rotating infrastructure. Labeling lags; false positives hurt browser UX.
 
-Working titles from the Google collaboration:
+**Prior art** (e.g. list-based feeds, logo-matching systems such as Phishpedia-style detectors) still struggles with zero-day lookalikes and annotation cost. **PhishNet / PhishDynamics** push toward unsupervised / one-shot learning plus LLM-assisted semantics and an in-browser delivery path.
 
-- **PhishNet** — unsupervised / one-shot deep learning for phishing site identification using **domain-specific features** and **logo comparison**, reducing manual annotation.  
-- **PhishDynamics** — real-time **Chrome browser plugin** path: immediate URL verification, server-side processing with image transformers, autoencoders, and classifiers; continuous adaptation; privacy-aware design that reduces reliance on brittle external blocklists alone.
+### My contribution
 
-Reported evaluation (project notes) reached **~99.6% accuracy**, comparing favorably against baselines such as Phishpedia, OpenPhish, and VirusTotal-style feeds in the study setting.
+- Designed and implemented domain-specific + **logo/visual similarity** signals for site identification
+- Built deep-learning pipelines (image transformers, autoencoders, classifiers) with reduced manual annotation
+- Integrated an LLM-assisted analysis path for page/URL semantics
+- Prototyped a **Chrome extension** for real-time URL verification with server-side inference
+- Collaborated with Google and NUS researchers on evaluation against strong baselines
 
-### Technical approach
+<figure class="case-shot">
+  <img src="{{ 'assets/img/projects/screens/phishnet-3.png' | relative_url }}" alt="Data exfiltration risk from compromised sessions" loading="lazy">
+  <figcaption>Why precision matters: phishing is a gateway to identity and data theft.</figcaption>
+</figure>
+
+### Approach
 
 | Layer | Methods |
 | --- | --- |
 | Visual | Logo / brand similarity, image transformers |
 | Representation | Autoencoders, one-shot / unsupervised learning |
-| Language | LLM-assisted analysis for page / URL semantics |
+| Language | LLM-assisted page / URL semantics |
 | Delivery | Chrome extension + server-side inference |
-| Ops | Continuous learning to cut manual training-set churn |
+| Ops | Continuous adaptation to cut training-set churn |
 
-### Impact
+### Outcomes
 
-Bridges academic phishing research and **productizable browser security** — fewer false dependencies on curated lists, faster reaction to novel lookalike sites, and a path from paper methods to an in-browser warning UX.
+Reported evaluation reached **~99.6% accuracy** in the study setting, comparing favorably with baselines such as Phishpedia, OpenPhish, and VirusTotal-style feeds. The work bridges academic phishing research and **productizable browser security**.
 
-<p class="case-note">*Accuracy figure from collaboration / CV project notes for the PhishDynamics evaluation setting; not a public Google product claim.</p>
+<p class="case-note">*Accuracy from collaboration / project evaluation notes — not a public Google product claim.</p>
 
 </div>

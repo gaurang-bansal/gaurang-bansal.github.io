@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Turing
-description: CS Expert — accelerating frontier AI research with high-quality evaluation data for labs and enterprises.
+description: CS Expert — frontier AI research acceleration via high-quality evaluation data, pipelines, and expert critique.
 img: assets/img/projects/turing-anthropic.png
 importance: 1
 category: Industry
@@ -11,7 +11,7 @@ category: Industry
 
 <div class="case-hero">
   <p class="case-kicker">Industry · Computer Science Expert · 2025–Present</p>
-  <h2 class="case-headline">Frontier AI research acceleration</h2>
+  <h2 class="case-headline">Accelerating frontier AI — from failures to training signal</h2>
   <p class="case-lead">
     <a href="https://www.turing.com/" target="_blank" rel="noopener noreferrer">Turing</a> is the world’s leading research accelerator for frontier AI labs
     and a trusted partner for global enterprises deploying advanced AI systems.
@@ -21,37 +21,45 @@ category: Industry
   </p>
 </div>
 
-<figure class="case-shot case-shot-sm">
-  <img src="{{ 'assets/img/turing-logo.png' | relative_url }}" alt="Turing logo" loading="lazy" style="background:#000;border-radius:12px;padding:0.6rem;">
-</figure>
-
 ### About Turing
 
 Turing supports customers in two ways:
 
-1. **Accelerating frontier research** — high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents.  
-2. **Enterprise AI that ships** — applying that expertise so companies move from proof of concept to proprietary intelligence: systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.
+1. **Accelerating frontier research** — high-quality data, advanced training pipelines, plus top AI researchers specializing in coding, reasoning, STEM, multilinguality, multimodality, and agents.  
+2. **Enterprise AI that ships** — turning proof of concept into proprietary intelligence: systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.
 
-### My mandate
+### State of the art
 
-As a **Computer Science Expert**, I contribute expert evaluation and training signal for frontier models — systematically finding where models fail and producing high-signal preference / RL data so they improve on hard, real-world tasks.
+Frontier labs no longer improve only by scaling parameters. Progress depends on **expert-grade evaluation**: finding hard failures on STEM, coding, research writing, and multimodal tasks, then converting those failures into preference / RL data that actually moves model quality. Public benchmarks are necessary but insufficient — they miss long-tail expert workflows.
 
-### Focus areas
+### My role & contribution
 
-| Domain | What I push on |
+As a **Computer Science Expert**, I contribute systematic failure-finding and high-signal training data for frontier models:
+
+- Stress-test models on **data science**, **machine learning**, **research-paper** workflows, and **multimedia**
+- Produce precise preference / RL annotations that capture *why* an answer fails
+- Measure uplift on expert tasks that mirror real scientific and engineering work
+- Engage on **Claude Opus–class** models (including 4.5 → 4.8 / Fable) through Turing’s lab partnerships
+
+### What I’ve achieved in this role
+
+| Area | Achievement |
 | --- | --- |
-| **Data science** | Analytical reasoning, pipelines, statistical judgment, tool-using workflows |
-| **Machine learning** | Experiment design, model understanding, ML problem-solving |
-| **Research papers** | Reading, critique, and research-grade technical writing |
-| **Multimedia** | Multimodal failure analysis and quality improvements |
-| **Coding & agents** | Reasoning-heavy software and agentic task evaluation |
+| **Failure discovery** | Surfaced systematic failure modes across DS/ML/research/multimedia that static benchmarks miss |
+| **Data quality** | Authored high-signal preference / RL examples used in frontier training loops |
+| **Coverage** | Expanded evaluation depth in coding, reasoning, STEM, multilinguality, multimodality, and agents |
+| **Lab impact** | Supported Claude Opus–class iteration cycles via Turing’s research-acceleration model |
+| **Enterprise relevance** | Connected expert eval practice to reliable, measurable AI systems — not demo-only PoCs |
 
 ### Approach
 
-Expert red-teaming loops rather than leaderboard chasing alone: surface hard failures → write precise preference / RL data → measure uplift on tasks that mirror scientific and engineering work. Engagements have included work on **Claude Opus**-class frontier models (4.5 → 4.8 / Fable) through Turing’s lab partnerships.
+Expert red-teaming loops rather than leaderboard chasing alone:
 
-### Why it matters
+1. Define hard, realistic tasks  
+2. Break the model with precise critique  
+3. Convert failures into preference / RL signal  
+4. Re-measure uplift on the same expert distribution  
 
-Frontier labs need specialists who can break models on STEM, coding, multimodality, and research workflows — then turn those failures into training data. That is the core of Turing’s research-acceleration model, and the work I do day to day.
+That loop is the core of Turing’s research-acceleration model — and the day-to-day work of this role.
 
 </div>

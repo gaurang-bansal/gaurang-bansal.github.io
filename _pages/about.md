@@ -4,26 +4,22 @@ title: <strong>About</strong>
 permalink: /
 subtitle: >-
   Founder,
-  <a class="role-chip role-chip-logo" href="https://adscrape.in/" target="_blank" rel="noopener noreferrer" title="AdScrape">
-    <img src="/assets/img/adscrape-logo.png" alt="AdScrape" class="role-logo" width="88" height="28">
-  </a>
-  · CS Expert,
-  <a class="role-chip role-chip-logo" href="https://www.turing.com/" target="_blank" rel="noopener noreferrer" title="Turing">
-    <img src="/assets/img/turing-logo.png" alt="Turing" class="role-logo role-logo-turing" width="28" height="28">
-  </a>
+  <a class="role-chip" href="https://adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a>
+  · Computer Science Expert,
+  <a class="role-chip" href="https://www.turing.com/" target="_blank" rel="noopener noreferrer">Turing</a>
   ·
-  <a class="role-chip" href="https://research.google/outreach/phd-fellowship/recipients" target="_blank" rel="noopener noreferrer">Google PhD</a>
+  <a class="role-chip" href="https://research.google/outreach/phd-fellowship/recipients" target="_blank" rel="noopener noreferrer">Google PhD Fellow</a>
   · Ph.D.,
   <a class="role-chip" href="https://nus.edu.sg" target="_blank" rel="noopener noreferrer">NUS</a>
 
 profile:
   align: right
   image: gaurang.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
 
-news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false
+selected_papers: true
+social: true
 ---
 
 I build AI products and advance research at the intersection of machine learning, security, and real-world systems. I am the **Founder of [AdScrape](https://adscrape.in/)**, a Meta Ad Library intelligence platform (dashboard + API) for Facebook and Instagram ad research—search **240M+** live ads, automate competitive monitoring, and skip Graph tokens/proxies. As a **Computer Science Expert at [Turing](https://www.turing.com/)**, I help accelerate frontier AI research with high-quality evaluation data and expert critique across coding, reasoning, STEM, multilinguality, multimodality, and agents—including work on Claude Opus–class models through Turing’s lab partnerships.

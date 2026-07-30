@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Secure UAV & IoT Systems
-description: Doctoral research — PUF / crypto authentication & attestation for UAV swarms and constrained IoT; IEEE TVT, Network, IoT.
+description: Doctoral research — PUF/crypto authentication & attestation for UAV swarms and constrained IoT networks.
 img: assets/img/projects/uav-security.png
 importance: 2
 category: Research
@@ -11,7 +11,7 @@ category: Research
 
 <div class="case-hero">
   <p class="case-kicker">Research · Ph.D., NUS ECE · 2020–2025</p>
-  <h2 class="case-headline">Securing resource-constrained networks</h2>
+  <h2 class="case-headline">Trust at swarm scale for resource-constrained networks</h2>
   <p class="case-lead">
     Doctoral and collaborative work on authentication, attestation, and privacy for
     <strong>UAV swarms</strong> and <strong>IoT</strong> devices with tight compute, memory, and energy budgets —
@@ -31,31 +31,35 @@ category: Research
   <div><strong>PUF</strong><span>Lightweight auth</span></div>
 </div>
 
-### Research agenda
+<figure class="case-shot">
+  <img src="{{ 'assets/img/projects/screens/uav-network.png' | relative_url }}" alt="UAV network applications and security risks overview" loading="lazy">
+  <figcaption>UAV networks enable logistics, agriculture, survey, and emergency response — and face auth, interference, and physical-capture risks.</figcaption>
+</figure>
 
-Collaborators spanned NUS, NTU, Carleton, NJIT, BITS Pilani, and others. Core question: how do we establish **trust at swarm scale** when devices can be physically captured, cloned, or jammed — without heavy PKI?
+### State of the art (and the gap)
+
+UAV/IoT deployments need mutual authentication and attestation, but devices are **resource-constrained** and often physically accessible. Classic PKI and heavyweight protocols do not scale to swarms under mobility and failure. PUF-based schemes help bind keys to hardware, yet many assume ideal PUF responses and one-to-one authentication that does not scale.
+
+### My contribution
+
+- Designed lightweight **PUF-based** UAV–GS and UAV–UAV authentication with formal analysis (**SecAuthUAV**, IEEE TVT)
+- Built **swarm-scale** protocols (S-MAPS, location-aware clustering, SHOTS) for time-efficient multi-device auth/attestation
+- Addressed noise-tolerant and fault-resilient designs (e.g. secret-sharing variants) under realistic PUF error
+- Extended into SECaaS / game-theoretic pricing for multi-stakeholder UAV security services
+- Collaborated across NUS, NTU, Carleton, NJIT, BITS Pilani, and others
 
 ### Flagship results
 
 | Theme | Representative work | Contribution |
 | --- | --- | --- |
-| UAV ↔ GS / UAV ↔ UAV auth | **SecAuthUAV** (IEEE TVT, 2020) | Lightweight **PUF-based** mutual authentication with formal security analysis |
-| Swarm scalability | **S-MAPS**, location-aware clustering | Authenticate many UAVs efficiently; spanning-tree / clustering topologies |
-| Attestation | **SHOTS**, trusted attestation protocols | Authentication + attestation under mobility and failure |
-| Resilience | Fault-resilient drone auth; Shamir secret-sharing variants | Noise-tolerant PUF responses; fewer brittle assumptions |
-| SECaaS / economics | UAV SECaaS Stackelberg pricing | Security-as-a-service models for multi-stakeholder swarms |
-
-### Methods
-
-- Physical Unclonable Functions (PUFs) for device-bound keys  
-- Mutual authentication &amp; attestation protocols with formal / game-theoretic analysis  
-- Topology-aware designs (clustering, optimal trajectories) for time-efficient swarm auth  
-- Extensions into V2G, heterogeneous base-station links, and blockchain/DAG commerce contexts  
+| UAV ↔ GS / UAV ↔ UAV | SecAuthUAV (IEEE TVT) | Lightweight PUF mutual auth + formal security |
+| Swarm scalability | S-MAPS, clustering topologies | Authenticate many UAVs efficiently |
+| Attestation | SHOTS, trusted attestation | Auth + attestation under mobility/failure |
+| Resilience | Fault-resilient / SSS variants | Tolerate noisy PUF responses |
+| SECaaS | UAV SECaaS Stackelberg models | Security-as-a-service economics |
 
 ### Outcomes
 
-Part of a broader portfolio with **30+ listed publications** and **2,200+ citations**. SecAuthUAV and follow-on swarm papers are among the most cited threads — establishing a line of work on **lightweight, scalable trust** for aerial and IoT networks.
-
-See the bibliography below and the full list on [Selected Publications](/publications/).
+Part of a portfolio with **30+ listed publications** and **2,200+ citations**. This line of work established scalable, lightweight trust for aerial and IoT networks under real constraints.
 
 </div>

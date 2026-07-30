@@ -1,7 +1,7 @@
 ---
 layout: page
 title: QuickAds
-description: Co-founder — AI performance creative. 30M+ ad insights, 30K+ brands, Stevie Award, backed by Kae Capital.
+description: Co-founder — AI performance creative. 30M+ ad insights, 30K+ brands, Stevie Award, Kae Capital–backed.
 img: assets/img/projects/quickads.png
 importance: 2
 category: Product
@@ -11,17 +11,15 @@ category: Product
 
 <div class="case-hero">
   <p class="case-kicker">Product · Co-Founder · 2024–Aug 2025</p>
-  <h2 class="case-headline">The right performance creatives. Done faster.</h2>
+  <h2 class="case-headline">Effortless ads — performance creative at speed</h2>
   <p class="case-lead">
     I co-founded <a href="https://www.quickads.ai/" target="_blank" rel="noopener noreferrer">QuickAds</a>
-    (also at <a href="https://quickads.com/" target="_blank" rel="noopener noreferrer">quickads.com</a>) —
-    a performance-creative engine that turns proprietary insights from <strong>30M+ ads</strong> into
+    — a performance-creative engine that turns proprietary insights from <strong>30M+ ads</strong> into
     market-tested image and video creatives, with AI and human operators working together.
   </p>
   <p class="case-links">
     <a class="btn btn-primary btn-sm z-depth-0" href="https://www.quickads.ai/" target="_blank" rel="noopener noreferrer">quickads.ai</a>
     <a class="btn btn-outline-primary btn-sm z-depth-0" href="https://www.youtube.com/watch?v=SGrj8zkyVEw" target="_blank" rel="noopener noreferrer">Product tour</a>
-    <a class="btn btn-outline-primary btn-sm z-depth-0" href="/assets/pdf/demo.pdf">Overview deck</a>
   </p>
 </div>
 
@@ -30,52 +28,44 @@ category: Product
   <div><strong>30K+</strong><span>Brands served</span></div>
   <div><strong>120+</strong><span>Countries</span></div>
   <div><strong>500K+</strong><span>Ads generated</span></div>
-  <div><strong>240%</strong><span>ROAS increase*</span></div>
+  <div><strong>Stevie</strong><span>AI award</span></div>
 </div>
 
 <figure class="case-shot">
-  <img src="{{ 'assets/img/projects/screens/quickads-hero.png' | relative_url }}" alt="QuickAds homepage — performance creative platform" loading="lazy">
-  <figcaption>Live product positioning from quickads.ai — AI + human performance creative.</figcaption>
+  <img src="{{ 'assets/img/projects/screens/quickads-collage.png' | relative_url }}" alt="QuickAds multi-format creative platform overview" loading="lazy">
+  <figcaption>Multi-format creatives, platform coverage, and product photography workflows.</figcaption>
 </figure>
 
-### Positioning
+### State of the art (and the gap)
 
-QuickAds sits between **ad spy tools** (inspiration only) and **traditional agencies** (slow, expensive retainers). The operating system:
+Legacy “ad spy” tools stop at inspiration. Traditional agencies are slow and expensive. Pure AI image tools are fast but often off-brand and still need heavy finishing.
 
-1. **Creative Intelligence** — spy on 30M+ high-performing ads; find what wins in a niche  
-2. **Image & Video Studio** — generate multi-format creatives from URL / brief  
-3. **Performance Hub** — publish and iterate across Meta, Google/YouTube, Amazon, TikTok  
+**State of the art QuickAds targeted:** close the loop — **discover → analyze → generate → publish** — with a proprietary creative-intelligence layer plus human strategists who have managed large ad spend.
 
-Reported outcomes on the product site include **7–8× CTR**, **30–50% lower CPM**, and **~2× ROAS** in early campaign cycles for teams that adopt the full loop (figures from QuickAds marketing).
+### My contribution
 
-### What shipped while I co-founded
+- Co-founded the company and drove product/engineering for AI image &amp; video generation
+- Helped ship Discover (multi-platform ad intelligence), brand kits from URL, and multi-format export
+- Built on FastAPI, PostgreSQL, Next.js/React, AWS, and LLM APIs
+- Supported AppSumo launch momentum and recognition (Stevie Award; VC-backed growth with Kae Capital)
 
-- AI **image & video** generation, product photography, virtual fashion, UGC-style video  
-- Multi-platform Discover / intelligence layer (Meta, YouTube, TikTok, and more)  
-- Brand kits from URL, 30+ formats, campaign tooling for D2C and growth teams  
-- Full-funnel services layer: Meta, Google/YouTube, Amazon, TikTok ads + campaign management  
-
-<figure class="case-shot case-shot-grid">
-  <img src="{{ 'assets/img/projects/screens/quickads-meta.jpg' | relative_url }}" alt="QuickAds Meta ads creative examples" loading="lazy">
-  <img src="{{ 'assets/img/projects/screens/quickads-tiktok.jpg' | relative_url }}" alt="QuickAds TikTok ads creative examples" loading="lazy">
-  <figcaption>Product creative surfaces — Meta and TikTok format examples from QuickAds.</figcaption>
+<figure class="case-shot">
+  <img src="{{ 'assets/img/projects/screens/quickads-banner.png' | relative_url }}" alt="QuickAds product marketing banner" loading="lazy">
+  <figcaption>Product positioning: one-stop creative generation for performance marketers.</figcaption>
 </figure>
 
-### Recognition & backing
+### What shipped
 
-- **Stevie Award** for AI / technology innovation  
-- Standout **AppSumo** launch (2024)  
-- Backed by **Kae Capital** (VC-backed growth)  
-- Trusted by teams at brands and platforms featured on the site (e.g. Google / Shopify / Meta partner ecosystem messaging)
+- AI image &amp; video ads, product photography, virtual fashion, UGC-style video
+- Creative intelligence over Meta, YouTube, TikTok, and more
+- Campaign-oriented workflows across Meta, Google/YouTube, Amazon, TikTok
 
-<figure class="case-shot case-shot-sm">
-  <img src="{{ 'assets/img/projects/screens/quickads-awards.png' | relative_url }}" alt="QuickAds awards and recognition" loading="lazy">
-</figure>
+### Outcomes
 
-### My role
+- **30K+ brands**, **120+ countries**, **500K+ ads generated** (product-reported)
+- Stevie Award for AI / technology innovation; AppSumo breakout launch
+- Left August 2025 to focus on AdScrape and Turing evaluation work
 
-Co-founder through **August 2025** — product, engineering direction (FastAPI, PostgreSQL, Next.js/React, AWS, OpenAI APIs), and shipping the AI creative generation stack. I left to focus on AdScrape and frontier-model evaluation work.
-
-<p class="case-note">*Impact metrics above are published on quickads.ai and reflect product-reported aggregates, not personal audited claims.</p>
+<p class="case-note">Impact metrics above are published on quickads.ai and reflect product-reported aggregates.</p>
 
 </div>
