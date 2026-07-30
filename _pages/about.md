@@ -7,8 +7,6 @@ subtitle: >-
   <a class="role-chip" href="https://adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a>
   · CS Expert,
   <a class="role-chip" href="https://www.turing.com/" target="_blank" rel="noopener noreferrer">Turing</a>
-  ×
-  <a class="role-chip" href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer">Anthropic</a>
   ·
   <a class="role-chip" href="https://research.google/outreach/phd-fellowship/recipients" target="_blank" rel="noopener noreferrer">Google PhD Fellow</a>
   · Ph.D.,
@@ -24,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I build AI products and advance research at the intersection of machine learning, security, and real-world systems. I am the **Founder of [AdScrape](https://adscrape.in/)**, a Meta Ad Library intelligence platform (dashboard + API) for Facebook and Instagram ad research—search **240M+** live ads, automate competitive monitoring, and skip Graph tokens/proxies. As a **Computer Science Expert at [Turing](https://www.turing.com/)**, I work with **[Anthropic](https://www.anthropic.com/)** on **Claude Opus** (4.5, 4.6, and 4.8 / Fable)—finding where frontier models fail and improving them across data science, machine learning, research-paper workflows, and multimedia.
+I build AI products and advance research at the intersection of machine learning, security, and real-world systems. I am the **Founder of [AdScrape](https://adscrape.in/)**, a Meta Ad Library intelligence platform (dashboard + API) for Facebook and Instagram ad research—search **240M+** live ads, automate competitive monitoring, and skip Graph tokens/proxies. As a **Computer Science Expert at [Turing](https://www.turing.com/)**, I help accelerate frontier AI research with high-quality evaluation data and expert critique across coding, reasoning, STEM, multilinguality, multimodality, and agents—including work on Claude Opus–class models through Turing’s lab partnerships.
 
 <div class="impact-strip" aria-label="Impact highlights">
   <div class="impact-card">
@@ -45,7 +43,7 @@ I build AI products and advance research at the intersection of machine learning
   </div>
 </div>
 
-I previously **co-founded [QuickAds](https://www.quickads.ai/)**, an AI platform for image/video ads with a **30M+** multi-platform ad library, AppSumo breakout launch, and a Stevie Award for AI innovation (VC-backed growth). I also served as Director at Vedastu Applications Pvt. Ltd. I left both roles in August 2025 to focus on AdScrape and frontier-model evaluation.
+I previously **co-founded [QuickAds](https://www.quickads.ai/)**, a performance-creative platform powered by insights from **30M+ ads**, serving **30K+ brands** across **120+ countries**, with a Stevie Award and backing from Kae Capital. I also served as Director at Vedastu Applications Pvt. Ltd. I left both roles in August 2025 to focus on AdScrape and frontier-model evaluation at Turing.
 
 On the academic side, I completed a **Ph.D. in Electrical and Computer Engineering** at the [National University of Singapore (NUS)](https://nus.edu.sg) (2020–2025), supported by the [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/recipients) and the [NUS President Fellowship](https://cde.nus.edu.sg/ece/graduate/scholarship-financial-support). I hold M.E. and B.E. degrees in Computer Science from [BITS Pilani](https://www.bits-pilani.ac.in). My research covers machine learning, cryptography, privacy, and web security — **30+ publications** listed here (full record on [Google Scholar](https://scholar.google.com/citations?user=A-t6Ds8AAAAJ&hl=en), **2,200+ citations**). I am an **IEEE Senior Member**.
 

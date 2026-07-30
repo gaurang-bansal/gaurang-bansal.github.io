@@ -1,33 +1,53 @@
 ---
 layout: page
-title: Turing × Anthropic
-description: Frontier Claude Opus (4.5→4.8/Fable) — expert failure finding across DS, ML, research papers & multimedia.
+title: Turing
+description: CS Expert — accelerating frontier AI research with high-quality evaluation data for labs and enterprises.
 img: assets/img/projects/turing-anthropic.png
 importance: 1
 category: Industry
 ---
 
-As a **Computer Science Expert at [Turing](https://www.turing.com/)**, I collaborate on **[Anthropic](https://www.anthropic.com/) Claude Opus** frontier models — including **Opus 4.5, 4.6, and 4.8 (Fable)**.
+<div class="case-study" markdown="1">
 
-### Mandate
+<div class="case-hero">
+  <p class="case-kicker">Industry · Computer Science Expert · 2025–Present</p>
+  <h2 class="case-headline">Frontier AI research acceleration</h2>
+  <p class="case-lead">
+    <a href="https://www.turing.com/" target="_blank" rel="noopener noreferrer">Turing</a> is the world’s leading research accelerator for frontier AI labs
+    and a trusted partner for global enterprises deploying advanced AI systems.
+  </p>
+  <p class="case-links">
+    <a class="btn btn-primary btn-sm z-depth-0" href="https://www.turing.com/" target="_blank" rel="noopener noreferrer">turing.com</a>
+  </p>
+</div>
 
-Find every place the model fails — then make it better. This is state-of-the-art model evaluation: not leaderboard chasing alone, but expert-grade stress tests that produce high-signal preference / RL data.
+### About Turing
+
+Turing supports customers in two ways:
+
+1. **Accelerating frontier research** — high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents.  
+2. **Enterprise AI that ships** — applying that expertise so companies move from proof of concept to proprietary intelligence: systems that perform reliably, deliver measurable impact, and drive lasting results on the P&amp;L.
+
+### My mandate
+
+As a **Computer Science Expert**, I contribute expert evaluation and training signal for frontier models — systematically finding where models fail and producing high-signal preference / RL data so they improve on hard, real-world tasks.
 
 ### Focus areas
 
-| Domain               | What improved                                                               |
-| -------------------- | --------------------------------------------------------------------------- |
-| **Data science**     | Analytical reasoning, pipelines, statistical judgment, tool-using workflows |
-| **Machine learning** | Experiment design, model understanding, ML problem-solving                  |
-| **Research papers**  | Reading, critique, and research-grade technical writing                     |
-| **Multimedia**       | Multimodal failure analysis and quality improvements                        |
+| Domain | What I push on |
+| --- | --- |
+| **Data science** | Analytical reasoning, pipelines, statistical judgment, tool-using workflows |
+| **Machine learning** | Experiment design, model understanding, ML problem-solving |
+| **Research papers** | Reading, critique, and research-grade technical writing |
+| **Multimedia** | Multimodal failure analysis and quality improvements |
+| **Coding & agents** | Reasoning-heavy software and agentic task evaluation |
 
 ### Approach
 
-Systematic evaluation and red-teaming loops: surface hard failures → produce preference / RL training signal → measure uplift on expert tasks that mirror real scientific and engineering work.
+Expert red-teaming loops rather than leaderboard chasing alone: surface hard failures → write precise preference / RL data → measure uplift on tasks that mirror scientific and engineering work. Engagements have included work on **Claude Opus**-class frontier models (4.5 → 4.8 / Fable) through Turing’s lab partnerships.
 
-### Links
+### Why it matters
 
-- [Turing](https://www.turing.com/)
-- [Anthropic](https://www.anthropic.com/)
-- [Claude](https://claude.ai/)
+Frontier labs need specialists who can break models on STEM, coding, multimodality, and research workflows — then turn those failures into training data. That is the core of Turing’s research-acceleration model, and the work I do day to day.
+
+</div>
