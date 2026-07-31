@@ -6,23 +6,38 @@ importance: 4
 category: ML and AI
 ---
 
-<div class="case-study" markdown="1">
+<div class="case-study case-study--research" markdown="1">
 
 <div class="case-hero">
-  <p class="case-kicker">ML and AI · Research · Networking</p>
+  <p class="case-kicker">ML and AI · Networking</p>
   <h2 class="case-headline">Learn how to provision SDN flows</h2>
   <p class="case-lead">
-    A machine-learning approach for <strong>traffic flow provisioning</strong> in software-defined networks —
-    using learned policies instead of brittle hand-tuned rules for dynamic traffic.
+    A machine-learning approach for traffic flow provisioning in software-defined networks —
+    learned policies instead of brittle hand-tuned rules under dynamic load.
   </p>
   <p class="case-links">
     <a class="btn btn-outline-primary btn-sm z-depth-0" href="/publications/">Publications</a>
   </p>
 </div>
 
-### Contribution
+<div class="research-block">
+  <strong>System</strong>
+  An SDN control-plane workflow where traffic measurements feed ML models that recommend or assign flow / path provisioning decisions, evaluated in SDN settings (ICOIN and related work).
+</div>
 
-- ML models for SDN flow / path decisions under changing load
-- Evaluation in SDN control-plane settings (ICOIN and related work)
+<div class="research-block">
+  <strong>Problem</strong>
+  Static or manually tuned SDN provisioning fails when traffic mixes shift. Operators need adaptive policies without rewriting OpenFlow logic for every regime.
+</div>
+
+<div class="research-block">
+  <strong>Our contribution</strong>
+  Cast flow provisioning as a learning problem; built models for SDN path/flow decisions under changing load; demonstrated the approach in published networking venues.
+</div>
+
+### Achievements
+
+- Peer-reviewed ML-for-SDN provisioning work  
+- Clear separation of measurement → learn → provision loop  
 
 </div>

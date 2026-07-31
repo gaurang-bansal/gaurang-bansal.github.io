@@ -6,15 +6,15 @@ importance: 2
 category: Research
 ---
 
-<div class="case-study" markdown="1">
+<div class="case-study case-study--research" markdown="1">
 
 <div class="case-hero">
   <p class="case-kicker">Research · Ph.D., NUS ECE · 2020–2025</p>
   <h2 class="case-headline">Trust at swarm scale for resource-constrained networks</h2>
   <p class="case-lead">
-    Doctoral and collaborative work on authentication, attestation, and privacy for
-    <strong>UAV swarms</strong> and <strong>IoT</strong> devices with tight compute, memory, and energy budgets —
-    published across IEEE TVT, IEEE Network, IEEE IoT venues, INFOCOM/Globecom workshops, and ACM.
+    Doctoral and collaborative research on authentication, attestation, and privacy for
+    <strong>UAV swarms</strong> and <strong>IoT</strong> under tight compute, memory, and energy budgets —
+    published across IEEE TVT, IEEE Network, IoT venues, INFOCOM/Globecom workshops, and ACM.
   </p>
   <p class="case-links">
     <a class="btn btn-primary btn-sm z-depth-0" href="/publications/">Selected Publications</a>
@@ -30,30 +30,33 @@ category: Research
   <div><strong>PUF</strong><span>Lightweight auth</span></div>
 </div>
 
-### State of the art (and the gap)
+<div class="research-block">
+  <strong>System</strong>
+  A family of lightweight cryptographic / PUF-based protocols for UAV–ground-station and UAV–UAV authentication, swarm-scale attestation (S-MAPS, SHOTS, clustering topologies), and SECaaS models for multi-stakeholder aerial security.
+</div>
 
-UAV/IoT deployments need mutual authentication and attestation, but devices are **resource-constrained** and often physically accessible. Classic PKI and heavyweight protocols do not scale to swarms under mobility and failure. PUF-based schemes help bind keys to hardware, yet many assume ideal PUF responses and one-to-one authentication that does not scale.
+<div class="research-block">
+  <strong>Problem</strong>
+  UAV/IoT devices need mutual authentication but cannot run heavyweight PKI at swarm scale under mobility and failure. Many PUF schemes assume ideal responses and one-to-one auth that does not scale; noisy PUFs and physical exposure break naive designs.
+</div>
 
-### My contribution
-
-- Designed lightweight **PUF-based** UAV–GS and UAV–UAV authentication with formal analysis (**SecAuthUAV**, IEEE TVT)
-- Built **swarm-scale** protocols (S-MAPS, location-aware clustering, SHOTS) for time-efficient multi-device auth/attestation
-- Addressed noise-tolerant and fault-resilient designs (e.g. secret-sharing variants) under realistic PUF error
-- Extended into SECaaS / game-theoretic pricing for multi-stakeholder UAV security services
-- Collaborated across NUS, NTU, Carleton, NJIT, BITS Pilani, and others
+<div class="research-block">
+  <strong>Our contribution</strong>
+  Designed and formally analyzed PUF-based mutual authentication (SecAuthUAV); built swarm-efficient auth/attestation protocols; added fault-resilient / secret-sharing variants for noisy PUFs; and formulated game-theoretic SECaaS pricing for UAV security services. Collaborations spanned NUS, NTU, Carleton, NJIT, BITS Pilani, and others.
+</div>
 
 ### Flagship results
 
-| Theme | Representative work | Contribution |
+| Theme | Work | Achievement |
 | --- | --- | --- |
 | UAV ↔ GS / UAV ↔ UAV | SecAuthUAV (IEEE TVT) | Lightweight PUF mutual auth + formal security |
-| Swarm scalability | S-MAPS, clustering topologies | Authenticate many UAVs efficiently |
+| Swarm scalability | S-MAPS, clustering | Authenticate many UAVs efficiently |
 | Attestation | SHOTS, trusted attestation | Auth + attestation under mobility/failure |
-| Resilience | Fault-resilient / SSS variants | Tolerate noisy PUF responses |
-| SECaaS | UAV SECaaS Stackelberg models | Security-as-a-service economics |
+| Resilience | Fault-resilient / SSS | Tolerate noisy PUF responses |
+| SECaaS | Stackelberg UAV SECaaS | Security-as-a-service economics |
 
-### Outcomes
+### Achievements
 
-Part of a portfolio with **30+ listed publications** and **2,200+ citations**. This line of work established scalable, lightweight trust for aerial and IoT networks under real constraints.
+Part of a portfolio with **30+ listed publications** and **2,200+ citations** — establishing scalable, lightweight trust for aerial and IoT networks under real constraints.
 
 </div>

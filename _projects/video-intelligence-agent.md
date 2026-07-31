@@ -6,16 +6,16 @@ importance: 1
 category: ML and AI
 ---
 
-<div class="case-study" markdown="1">
+<div class="case-study case-study--research" markdown="1">
 
 <div class="case-hero">
   <p class="case-kicker">ML and AI · Video intelligence · Government use</p>
-  <h2 class="case-headline">Hours of video → the exact scenes that matter</h2>
+  <h2 class="case-headline">Hours of video → the scenes that matter</h2>
   <p class="case-lead">
-    A <strong>Video Intelligence Agent</strong> that analyzes hours of footage to identify particular scenes —
-    built for high-stakes workflows such as <strong>criminal investigation</strong> and <strong>court cases</strong>.
-    Deployed / used in work with the <strong>Government of Canada</strong> and <strong>Singapore</strong>,
-    and evaluated as outperforming <strong>twelve competing labs</strong>.
+    A Video Intelligence Agent that analyzes long-form footage to identify particular scenes —
+    built for criminal investigation and court workflows. Used with the
+    <strong>Government of Canada</strong> and <strong>Singapore</strong>, and evaluated as outperforming
+    <strong>twelve competing labs</strong>.
   </p>
 </div>
 
@@ -26,30 +26,33 @@ category: ML and AI
   <div><strong>Court</strong><span>Investigation-ready</span></div>
 </div>
 
-### Problem
+<div class="research-block">
+  <strong>System</strong>
+  End-to-end video intelligence pipeline: ingest long recordings → hierarchical encoding (frame → shot → scene → case context) → retrieve / rank scenes matching investigative queries → human-verifiable outputs for case files.
+</div>
 
-Investigators and legal teams drown in video. Finding a specific event, person interaction, or scene across hours of CCTV / bodycam / case footage is slow, error-prone, and expensive when done only with human review.
+<div class="research-block">
+  <strong>Problem</strong>
+  Investigators and legal teams drown in CCTV, bodycam, and case video. Finding a specific event across hours of footage is slow and error-prone when done only with linear human review. Prior lab systems often lacked hierarchy, auditability, or throughput for real case loads.
+</div>
 
-### What the agent does
+<div class="research-block">
+  <strong>Our contribution</strong>
+  Designed a deep networked agent with explicit <em>hierarchy</em>, <em>layering</em>, <em>data mapping</em>, and <em>pipelining</em> — so scene search is structured and scalable rather than a flat embedding sweep. Mapped raw video signals into searchable scene/event records suitable for investigation and court use.
+</div>
 
-- Ingests long-form video and surfaces **particular scenes** matching investigative queries
-- Supports **criminal investigation** and **court / case** workflows where precision and auditability matter
-- Scales review from “watch everything” to “review the hits”
-
-### System design
-
-Deep network structure with explicit hierarchy and pipelining:
+### Method
 
 | Layer | Role |
 | --- | --- |
-| **Hierarchy** | Multi-level representations — frame → shot → scene → case-level context |
-| **Layering** | Stacked perception and reasoning stages (detection, temporal linking, scene semantics) |
-| **Data mapping** | Structured mapping from raw video signals to searchable scene / event records |
-| **Pipelining** | End-to-end pipeline — ingest → encode → retrieve → verify — built for throughput on hours of footage |
+| **Hierarchy** | Multi-level representations — frame → shot → scene → case |
+| **Layering** | Stacked perception and reasoning (detection, temporal linking, semantics) |
+| **Data mapping** | Raw signals → structured scene / event records |
+| **Pipelining** | Ingest → encode → retrieve → verify at hours-scale throughput |
 
-### Outcomes
+### Achievements
 
-- Used in government contexts (**Canada**, **Singapore**)
+- Deployed / used in government contexts (**Canada**, **Singapore**)
 - Benchmarked ahead of **twelve labs** in comparative evaluation
 - Practical path from bulk video to investigation- and court-usable scene intelligence
 

@@ -6,7 +6,7 @@ importance: 6
 category: Product
 ---
 
-<div class="case-study" markdown="1">
+<div class="case-study case-study--product" markdown="1">
 
 <div class="case-hero">
   <p class="case-kicker">Product · Builder · Live</p>
@@ -14,40 +14,69 @@ category: Product
   <p class="case-lead">
     An online course platform I built for organizations that teach through live and recorded sessions.
     Students enroll and listen to classes; coordinators and admins manage access, attendance, progress, and evaluations —
-    without bolting together separate LMS, Zoom sheets, and spreadsheets.
-  </p>
-  <p class="case-links">
-    <span class="case-note">Live deployment for partner organizations (link available on request).</span>
+    without stitching LMS + Zoom sheets + spreadsheets.
   </p>
 </div>
 
 <div class="case-stats">
-  <div><strong>Listen</strong><span>Class / lecture access</span></div>
+  <div><strong>Listen</strong><span>Class access</span></div>
   <div><strong>Attendance</strong><span>Sheets &amp; sync</span></div>
-  <div><strong>Evaluate</strong><span>Quizzes &amp; progress</span></div>
-  <div><strong>Roles</strong><span>Student · Coord · Admin</span></div>
+  <div><strong>Evaluate</strong><span>Quizzes</span></div>
+  <div><strong>3 roles</strong><span>Student · Coord · Admin</span></div>
 </div>
 
-### Problem
+### What we offer
 
-Teaching orgs often juggle a player for content, a chat/video tool for live sessions, a sheet for attendance, and ad-hoc quizzes.
-Enrollment approvals, “who attended,” and “who finished which module” fall out of sync — especially when coordinators gate access course-by-course.
+<div class="offer-grid">
+  <div class="offer-card">
+    <strong>Course listening</strong>
+    Enroll, approved access, lecture progress, continue where you left off.
+  </div>
+  <div class="offer-card">
+    <strong>Attendance</strong>
+    Attendance sheets, session attendees, Zoom attendance sync paths, listener stats.
+  </div>
+  <div class="offer-card">
+    <strong>Evaluation</strong>
+    Quizzes, daily/course progress reports, module completion gates.
+  </div>
+  <div class="offer-card">
+    <strong>Ops dashboards</strong>
+    Student, coordinator (approve classes), and admin (permissions / users) roles.
+  </div>
+</div>
 
-### What we shipped
+### Market problem
 
-| Surface | Capability |
-| --- | --- |
-| **Courses &amp; listening** | Browse/enroll, approved course access, lecture progress, continue where you left off |
-| **Attendance** | Attendance sheets, session attendees, Zoom attendance sync paths, listener stats |
-| **Evaluation** | Quizzes, daily/course progress reports, module completion to unlock next content |
-| **Ops roles** | Student, coordinator (approve classes / review access), admin (permissions &amp; users) |
+Teaching orgs juggle a player, a video tool, a sheet for attendance, and ad-hoc quizzes. Enrollment approvals and “who finished which module” fall out of sync — especially when coordinators gate courses one by one.
 
-### My contribution
+### State of the art
 
-- Designed and built the end-to-end product: enrollment → listen → attendance → evaluation → reporting
-- Role-based dashboards for students, coordinators, and admins
-- Progress tracking and attendance workflows so operators do not chase fragmented tools
+Generic LMS tools are content-first and weak on attendance/ops for live teaching communities. Custom Zoom+Sheets stacks do not scale governance.
 
-**Stack:** Modern web app (SPA) · role-based access · attendance / quiz APIs · progress analytics
+**This product:** one system for listen + attend + evaluate + approve.
+
+### Approach
+
+- Role-based product from day one (student / coordinator / admin)  
+- Progress as a first-class object (unlock next modules on completion)  
+- Attendance treated as operational data, not an afterthought export  
+
+### Tech stack
+
+<ul class="stack-pills">
+  <li>Modern SPA</li>
+  <li>Role-based access control</li>
+  <li>Attendance / quiz APIs</li>
+  <li>Progress analytics</li>
+  <li>Zoom attendance integrations</li>
+</ul>
+
+### Outcomes
+
+- Live deployment for partner organizations
+- End-to-end loop: enrollment → listen → attendance → evaluation → reporting
+
+<p class="case-note">Live deployment for partner organizations (public brand name omitted).</p>
 
 </div>

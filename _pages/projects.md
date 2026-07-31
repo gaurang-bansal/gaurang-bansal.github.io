@@ -11,11 +11,12 @@ horizontal: true
 
 <div class="page-hero projects-hero">
   <p class="page-kicker">Work</p>
-  <h2 class="page-hero-title">Products, ML/AI systems, and peer-reviewed research</h2>
+  <h2 class="page-hero-title">Products, industry impact, and research systems</h2>
   <p class="page-hero-lead">
-    Shipped products (Fast Ad, AdScrape, Meta Ad Analyser, BrandBooster, QuickAds, course platform),
-    video intelligence for investigations, frontier evaluation at Turing, and machine-learning research.
-    Open any card for problem, approach, and links.
+    Three page styles: <strong>Product</strong> (offer, approach, SoTA, stack),
+    <strong>Industry</strong> (mandate, operating loop, impact),
+    and <strong>Research / ML</strong> (system, problem, contribution, achievements).
+    Open any card for the full case study.
   </p>
 </div>
 

@@ -6,47 +6,81 @@ importance: 3
 category: Product
 ---
 
-<div class="case-study" markdown="1">
+<div class="case-study case-study--product" markdown="1">
 
 <div class="case-hero">
   <p class="case-kicker">Product · AI / ML · Meta ads</p>
-  <h2 class="case-headline">Deep analysis on every ad — not just a thumbnail gallery</h2>
+  <h2 class="case-headline">Deep analysis on every ad — not just a gallery</h2>
   <p class="case-lead">
-    An <strong>AI/ML Meta Ad Analyser</strong> that goes beyond search and scrape:
-    it deeply analyzes <em>each and every</em> ad — creative structure, copy, offers, hooks, visual motifs, and competitive posture —
-    so teams get structured intelligence instead of raw creative dumps.
+    An AI/ML <strong>Meta Ad Analyser</strong> that inspects <em>each</em> creative —
+    structure, copy, offers, hooks, visual motifs, and competitive posture —
+    and returns structured recommendations (copy / improve / attack) instead of raw dumps.
   </p>
 </div>
 
 <div class="case-stats">
   <div><strong>Per-ad</strong><span>Deep teardown</span></div>
-  <div><strong>AI/ML</strong><span>Vision + language</span></div>
-  <div><strong>Meta</strong><span>FB / IG creatives</span></div>
-  <div><strong>Actionable</strong><span>Copy · improve · attack</span></div>
+  <div><strong>Vision+LLM</strong><span>Multimodal</span></div>
+  <div><strong>Meta</strong><span>FB / IG</span></div>
+  <div><strong>Actions</strong><span>Copy · improve · attack</span></div>
 </div>
 
-### Problem
+### What we offer
 
-Ad libraries and spy tools surface creatives, but marketers still do the hard part by hand: reading every variant, comparing angles, and deciding what to copy, improve, or counter. At library scale, manual review does not work.
+<div class="offer-grid">
+  <div class="offer-card">
+    <strong>Creative analysis</strong>
+    Layout, product focus, UGC vs studio cues, brand signals from the visual.
+  </div>
+  <div class="offer-card">
+    <strong>Copy intelligence</strong>
+    Hooks, CTAs, claims, offer framing, and tone extracted into structured fields.
+  </div>
+  <div class="offer-card">
+    <strong>Competitive context</strong>
+    How an ad sits against peers in the same niche or brand set.
+  </div>
+  <div class="offer-card">
+    <strong>Actionable outputs</strong>
+    Explicit recommendations — what to copy, improve, or counter.
+  </div>
+</div>
 
-### What it does
+### Market problem
 
-| Layer | Analysis |
-| --- | --- |
-| **Creative** | Visual layout, product focus, face/UGC vs studio, brand cues |
-| **Copy** | Hooks, CTAs, claims, offer framing, tone |
-| **Competitive** | How the ad sits vs peers in the same niche / brand set |
-| **Actions** | Structured recommendations — copy, improve, or attack |
+Spy tools surface creatives; humans still do the hard work of reading every variant. At library scale that does not scale — agencies and growth teams need per-ad intelligence, not infinite scroll.
+
+### State of the art
+
+| Layer | Typical tools | Gap |
+| --- | --- | --- |
+| Discovery | Ad libraries / scrapers | No deep understanding |
+| Generation | AI ad makers | Weak competitive grounding |
+| Analysis | Manual strategists | Cost and latency |
+
+**This product closes the middle:** multimodal analysis that turns each ad into a decision object.
 
 ### Approach
 
-- Multimodal AI/ML over ad creatives (vision + language)
-- Per-ad deep analysis rather than aggregate-only dashboards
-- Designed to plug into Meta Ad Library workflows (including AdScrape-style discovery pipelines)
+1. Ingest ad creative (image/video + text)  
+2. Run vision + language models for structure and semantics  
+3. Map outputs to competitive frames  
+4. Emit structured teardown + recommended actions  
+
+### Tech stack
+
+<ul class="stack-pills">
+  <li>Multimodal LLMs</li>
+  <li>Vision models</li>
+  <li>Python / FastAPI</li>
+  <li>Meta Ad Library pipelines</li>
+  <li>Structured JSON outputs</li>
+</ul>
 
 ### Outcomes
 
-- Turns “millions of ads searchable” into **per-ad intelligence**
-- Faster competitive teardown for agencies, founders, and performance teams
+- Turns “searchable ads” into **per-ad intelligence**
+- Designed to plug into AdScrape-style discovery workflows
+- Faster competitive teardown for performance teams
 
 </div>
