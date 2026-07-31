@@ -13,3 +13,6 @@ exclude_path = [
   "_pages/404.md",
   "lighthouse_results",
 ]
+
+# Google Scholar often returns 403 to GitHub Actions IP ranges / bots
+exclude = ["^https://scholar\\.google\\.com/"]
