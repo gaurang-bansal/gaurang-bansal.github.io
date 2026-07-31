@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AdScrape
-description: Founder — Meta Ad Library intelligence. Dashboard + REST API over 240M+ Facebook & Instagram ads.
+description: Founder — Meta Ad Library intelligence. Dashboard + REST API over 240M+ ads; no Graph token or proxies.
 importance: 2
 category: Product
 ---
@@ -10,11 +10,13 @@ category: Product
 
 <div class="case-hero">
   <p class="case-kicker">Product · Founder · 2025–Present</p>
-  <h2 class="case-headline">The Meta Ad Library, productized</h2>
+  <h2 class="case-headline">Meta Ad Library → dashboard, API, and AI teardown</h2>
   <p class="case-lead">
+    I <strong>founded</strong>
     <a href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a>
-    is the Meta Ad Library intelligence platform I founded — a Discover dashboard and production REST API on one account.
-    Search <strong>240M+</strong> Facebook &amp; Instagram ads, automate competitor monitoring, and skip Graph tokens, proxies, and brittle Selenium.
+    — Meta Ad Library intelligence as a product: search <strong>240M+</strong> live Facebook &amp; Instagram ads,
+    automate competitor monitoring, download creatives, and run AI analysis —
+    <strong>without</strong> a Meta Graph app, developer token, or self-hosted Selenium/proxies.
   </p>
   <p class="case-links">
     <a class="btn btn-primary btn-sm z-depth-0" href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">Live product</a>
@@ -24,68 +26,75 @@ category: Product
 </div>
 
 <div class="case-stats">
-  <div><strong>240M+</strong><span>Ads searchable</span></div>
-  <div><strong>500</strong><span>Ads / API call</span></div>
-  <div><strong>12</strong><span>REST endpoints</span></div>
-  <div><strong>$49</strong><span>Plans from / mo</span></div>
+  <div><strong>240M+</strong><span>Ads searchable*</span></div>
+  <div><strong>500</strong><span>Ads / API call*</span></div>
+  <div><strong>12</strong><span>REST endpoints*</span></div>
+  <div><strong>$49</strong><span>Plans from / mo*</span></div>
 </div>
+
+### Why founders / hiring managers care
+
+| Signal | Detail |
+| --- | --- |
+| **Founder + full-stack ship** | Product, API, infra, pricing — not a slide deck |
+| **API business** | Same data plane for UI and developers (JSON, one key) — SaaS + platform thinking |
+| **Hard distribution problem** | Productized a public-but-browser-locked transparency surface into queryable infrastructure |
+| **AI enrichment** | Analyser turns each ad into copy / improve / attack actions — intelligence, not dumps |
 
 ### What we offer
 
 <div class="offer-grid">
   <div class="offer-card">
     <strong>Discover dashboard</strong>
-    Keyword / brand / URL search, filters, bookmarks, CSV/JSON export — no-code competitive research.
+    Keyword / brand / URL search, filters, bookmarks, notes, CSV/JSON export — free to try.
   </div>
   <div class="offer-card">
     <strong>REST API</strong>
-    Search, cursor pagination, suggestions, ad detail, media, analyze, billing — same data as the UI.
+    Search, pagination, brand suggestions, ad detail, cloaked media CDN, analyze, billing — 12 endpoints.
   </div>
   <div class="offer-card">
-    <strong>Brand &amp; keyword spy</strong>
-    Scheduled re-scrape and weekly intelligence emails for always-on monitoring.
+    <strong>Brand &amp; keyword trackers</strong>
+    Scheduled re-scrape + weekly intelligence email (Pro+).
   </div>
   <div class="offer-card">
-    <strong>Ad Analyser</strong>
-    AI competitive teardown (copy / improve / attack) on individual creatives.
+    <strong>AI Ad Analyser</strong>
+    Paste an archive ID / Ad Library URL → strategy, strengths, weaknesses, and explicit next actions.
   </div>
 </div>
 
 ### Market problem
 
-Meta’s Ad Library is public but browser-bound: weak bulk pagination, no stable creative CDN, no brand→Page ID typeahead API, no always-on watches. Scrapers need proxies and brittle browsers. Graph access needs apps, review, and quotas.
+Meta’s Ad Library is public but not a product: no reliable bulk pagination, no stable creative CDN for builders, no always-on competitor watches. Graph access needs apps and review. DIY scrapers burn time on proxies and DOM churn.
 
 ### State of the art
 
 | Option | Reality |
 | --- | --- |
-| Native Ad Library UI | Manual, not pipeline-friendly |
-| DIY scrapers | Infra-heavy, fragile |
-| Graph API | Review gates, quotas, not a spy product |
+| Native UI | Manual, not pipeline-friendly |
+| Self-hosted scrapers | Fragile infra |
+| Graph API | Wrong tool for competitive spy at scale |
 
-**AdScrape advances:** a productized intelligence layer — Discover + API + trackers + analyser — with Meta brand suggestions competitors typically lack.
+### My contribution
 
-### Approach
-
-- Unified account model: dashboard and API share one data plane  
-- Managed crawl/infra so customers never run Selenium or proxies  
-- Cursor pagination (≤500 ads/call) for bulk research  
-- First-class brand typeahead and media download paths  
+- Founded and shipped the full stack (product, API, infra, monetization)  
+- Designed unified account model: dashboard ≡ API data  
+- Built brand typeahead, cursor pagination (≤500/call), media download, trackers, analyser  
 
 ### Tech stack
 
 <ul class="stack-pills">
-  <li>Next.js</li>
-  <li>React</li>
+  <li>Next.js / React</li>
   <li>FastAPI / Python</li>
   <li>PostgreSQL</li>
   <li>AWS</li>
+  <li>Managed Meta Library ingestion</li>
 </ul>
 
 ### Outcomes
 
-- Live SaaS with free trial credits; paid plans from **$49/mo**
-- Used by agencies, founders, and builders wiring Meta ads into pipelines
-- Founded and shipped full stack: product, API, infra, pricing
+- Live SaaS with trial credits; paid plans from **$49/mo**  
+- Used by agencies, founders, and builders wiring Meta ads into pipelines / AI training sets  
+
+<p class="case-note">*Scale and pricing figures from AdScrape public site/docs. Role: Founder.</p>
 
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meta Ad Analyser
-description: AI/ML — deep analysis of every Meta ad — creative, copy, competitors, and actionable teardown at scale.
+description: AI/ML — per-ad competitive teardown for Meta creatives (copy / improve / attack), as shipped in AdScrape.
 importance: 3
 category: Product
 ---
@@ -10,77 +10,70 @@ category: Product
 
 <div class="case-hero">
   <p class="case-kicker">Product · AI / ML · Meta ads</p>
-  <h2 class="case-headline">Deep analysis on every ad — not just a gallery</h2>
+  <h2 class="case-headline">Every ad becomes a decision — not a screenshot</h2>
   <p class="case-lead">
-    An AI/ML <strong>Meta Ad Analyser</strong> that inspects <em>each</em> creative —
-    structure, copy, offers, hooks, visual motifs, and competitive posture —
-    and returns structured recommendations (copy / improve / attack) instead of raw dumps.
+    The <strong>Meta Ad Analyser</strong> (shipped as part of the
+    <a href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a> stack)
+    runs deep AI analysis on individual Meta ads: paste an archive ID or Ad Library URL and get strategy,
+    strengths, weaknesses, and explicit actions — <em>what to copy, improve, and attack</em>.
+  </p>
+  <p class="case-links">
+    <a class="btn btn-primary btn-sm z-depth-0" href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">See in AdScrape</a>
   </p>
 </div>
 
 <div class="case-stats">
-  <div><strong>Per-ad</strong><span>Deep teardown</span></div>
-  <div><strong>Vision+LLM</strong><span>Multimodal</span></div>
-  <div><strong>Meta</strong><span>FB / IG</span></div>
+  <div><strong>Per-ad</strong><span>Teardown</span></div>
+  <div><strong>Multimodal</strong><span>Vision + language</span></div>
   <div><strong>Actions</strong><span>Copy · improve · attack</span></div>
+  <div><strong>API-ready</strong><span>Analyze endpoint</span></div>
 </div>
 
-### What we offer
+### Why it matters
+
+Hiring managers and technical founders look for AI that **changes a workflow**. This is not “chat with your ads” — it is structured competitive intelligence tied to a searchable library of **240M+** Meta ads and a developer API.
+
+### What it offers
 
 <div class="offer-grid">
   <div class="offer-card">
-    <strong>Creative analysis</strong>
-    Layout, product focus, UGC vs studio cues, brand signals from the visual.
+    <strong>Creative read</strong>
+    Visual/layout cues, format, and brand signals from the creative itself.
   </div>
   <div class="offer-card">
-    <strong>Copy intelligence</strong>
-    Hooks, CTAs, claims, offer framing, and tone extracted into structured fields.
+    <strong>Copy &amp; offer read</strong>
+    Hooks, CTAs, claims, and framing extracted into comparable fields.
   </div>
   <div class="offer-card">
-    <strong>Competitive context</strong>
-    How an ad sits against peers in the same niche or brand set.
+    <strong>Strategy brief</strong>
+    Strengths, weaknesses, and likely angle — marketer-ready, not raw model dumps.
   </div>
   <div class="offer-card">
-    <strong>Actionable outputs</strong>
-    Explicit recommendations — what to copy, improve, or counter.
+    <strong>Next actions</strong>
+    Explicit copy / improve / attack recommendations for the next sprint.
   </div>
 </div>
 
-### Market problem
+### Problem
 
-Spy tools surface creatives; humans still do the hard work of reading every variant. At library scale that does not scale — agencies and growth teams need per-ad intelligence, not infinite scroll.
-
-### State of the art
-
-| Layer | Typical tools | Gap |
-| --- | --- | --- |
-| Discovery | Ad libraries / scrapers | No deep understanding |
-| Generation | AI ad makers | Weak competitive grounding |
-| Analysis | Manual strategists | Cost and latency |
-
-**This product closes the middle:** multimodal analysis that turns each ad into a decision object.
+Spy tools give infinite galleries. Strategists still spend hours reading ads one by one. At library scale, manual teardown does not work.
 
 ### Approach
 
-1. Ingest ad creative (image/video + text)  
-2. Run vision + language models for structure and semantics  
-3. Map outputs to competitive frames  
-4. Emit structured teardown + recommended actions  
+Multimodal models over ad creative + copy → normalized fields → competitive brief → action list. Designed to sit on top of AdScrape discovery (dashboard or API).
 
 ### Tech stack
 
 <ul class="stack-pills">
   <li>Multimodal LLMs</li>
   <li>Vision models</li>
-  <li>Python / FastAPI</li>
-  <li>Meta Ad Library pipelines</li>
-  <li>Structured JSON outputs</li>
+  <li>FastAPI</li>
+  <li>AdScrape data plane</li>
 </ul>
 
 ### Outcomes
 
-- Turns “searchable ads” into **per-ad intelligence**
-- Designed to plug into AdScrape-style discovery workflows
-- Faster competitive teardown for performance teams
+- Turns Meta Ad Library inventory into **per-ad decisions**  
+- Available in-product with AdScrape plans; API path for builders  
 
 </div>
