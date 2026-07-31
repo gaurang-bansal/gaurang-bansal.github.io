@@ -52,7 +52,7 @@ Scaling parameters alone is no longer enough. Progress depends on finding hard f
 | **Failure discovery** | Systematic modes across data science, ML, research-paper, and multimedia tasks |
 | **Annotation quality** | Preference / RL examples that capture failure rationale, not binary labels |
 | **Coverage** | Coding, reasoning, STEM, multilinguality, multimodality, agents |
-| **Lab cycles** | Support for Claude Opus–class iteration (including 4.5 → 4.8 / Fable) via Turing partnerships |
+| **Lab cycles** | Support for Claude Opus–class iteration via Turing partnerships (see [Anthropic](/projects/anthropic/) case study) |
 
 ### Impact style (industry vs product)
 
