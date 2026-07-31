@@ -12,14 +12,14 @@ category: Product
   <p class="case-kicker">Product · Founder · 2025–Present</p>
   <h2 class="case-headline">The Meta Ad Library, unlocked</h2>
   <p class="case-lead">
-    <a href="https://adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a> is the Meta Ad Library intelligence platform I founded —
+    <a href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a> is the Meta Ad Library intelligence platform I founded —
     a no-code Discover dashboard and a production REST API on one account.
     Teams search <strong>240M+</strong> live Facebook &amp; Instagram ads, automate competitor monitoring, and skip Graph tokens, proxies, and Selenium.
   </p>
   <p class="case-links">
-    <a class="btn btn-primary btn-sm z-depth-0" href="https://adscrape.in/" target="_blank" rel="noopener noreferrer">Live product</a>
-    <a class="btn btn-outline-primary btn-sm z-depth-0" href="https://adscrape.in/docs" target="_blank" rel="noopener noreferrer">API docs</a>
-    <a class="btn btn-outline-primary btn-sm z-depth-0" href="https://adscrape.in/pricing" target="_blank" rel="noopener noreferrer">Pricing</a>
+    <a class="btn btn-primary btn-sm z-depth-0" href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">Live product</a>
+    <a class="btn btn-outline-primary btn-sm z-depth-0" href="https://www.adscrape.in/docs" target="_blank" rel="noopener noreferrer">API docs</a>
+    <a class="btn btn-outline-primary btn-sm z-depth-0" href="https://www.adscrape.in/pricing" target="_blank" rel="noopener noreferrer">Pricing</a>
   </p>
 </div>
 

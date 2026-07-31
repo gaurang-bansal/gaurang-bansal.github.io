@@ -44,9 +44,24 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      # Jekyll permalinks like /publications/ are not real folders in source.
+      # Symlink them so --root-dir can resolve root-relative links locally.
+      - name: Map Jekyll permalinks 🗺️
+        run: |
+          ln -sfn _pages/publications.md publications
+          ln -sfn _pages/projects.md projects
+          ln -sfn _pages/news.md news
+          ln -sfn _pages/quickads.md quickads
+          # note: do not create `cv` — conflicts with CV/ on case-insensitive FS; /cv/ page only links to /assets/
+
       - name: Link Checker 🔗
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          # removed md files that include liquid tags / template docs
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path CUSTOMIZE.md --exclude-path FAQ.md --exclude-path INSTALL.md --exclude-path CONTRIBUTING.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --verbose --no-progress './**/*.md' './**/*.html'
+          args: >-
+            --config lychee.toml
+            --root-dir ${{ github.workspace }}
+            --verbose
+            --no-progress
+            './**/*.md'
+            './**/*.html'

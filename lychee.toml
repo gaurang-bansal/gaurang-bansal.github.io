@@ -1,0 +1,15 @@
+# Lychee config for local markdown/HTML checks (Jekyll source).
+# root_dir is passed from CI as an absolute path (--root-dir $GITHUB_WORKSPACE).
+verbose = "info"
+no_progress = true
+user_agent = "curl/7.54"
+
+exclude_path = [
+  "README.md",
+  "CUSTOMIZE.md",
+  "FAQ.md",
+  "INSTALL.md",
+  "CONTRIBUTING.md",
+  "_pages/404.md",
+  "lighthouse_results",
+]
