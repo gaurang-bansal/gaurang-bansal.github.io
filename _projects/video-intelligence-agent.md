@@ -3,13 +3,13 @@ layout: page
 title: Video Intelligence Agent
 description: AI agent — hours of video → scene detection for investigations & court. Used by Govt. of Canada & Singapore; outperformed 12 labs.
 importance: 1
-category: ML and AI
+category: Research
 ---
 
 <div class="case-study case-study--research" markdown="1">
 
 <div class="case-hero">
-  <p class="case-kicker">ML and AI · Video intelligence · Government use</p>
+  <p class="case-kicker">Research · Video intelligence · Government use</p>
   <h2 class="case-headline">Hours of video → the scenes that matter</h2>
   <p class="case-lead">
     A Video Intelligence Agent that analyzes long-form footage to identify particular scenes —

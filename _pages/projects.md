@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Case studies — Fast Ad, AdScrape, Meta Ad Analyser, Video Intelligence Agent, BrandBooster, QuickAds, Turing, and ML/AI research.
+description: Case studies — products, Turing & Anthropic industry work, and security / ML research.
 nav: true
 nav_order: 3
-display_categories: [Product, Industry, ML and AI, Research]
+display_categories: [Product, Industry, Research]
 horizontal: true
 ---
 
@@ -13,10 +13,9 @@ horizontal: true
   <p class="page-kicker">Work</p>
   <h2 class="page-hero-title">Products, industry impact, and research systems</h2>
   <p class="page-hero-lead">
-    Three page styles: <strong>Product</strong> (offer, approach, SoTA, stack),
-    <strong>Industry</strong> (mandate, operating loop, impact),
-    and <strong>Research / ML</strong> (system, problem, contribution, achievements).
-    Open any card for the full case study.
+    <strong>Product</strong> pages cover offer, approach, SoTA, and stack.
+    <strong>Industry</strong> covers Turing and Anthropic frontier-model work.
+    <strong>Research</strong> covers system, problem, contribution, and achievements (security + selected ML).
   </p>
 </div>
 
