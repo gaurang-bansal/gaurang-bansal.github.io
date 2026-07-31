@@ -53,7 +53,7 @@ Legacy “ad spy” tools stop at inspiration. Traditional agencies are slow and
 
 - **30K+ brands**, **120+ countries**, **500K+ ads generated** (product-reported)
 - Stevie Award for AI / technology innovation; AppSumo breakout launch
-- Left August 2025 to focus on Fast Ad, AdScrape, and Turing evaluation work
+- Left August 2025 to build my own ventures
 
 <p class="case-note">Impact metrics above are published on quickads.ai and reflect product-reported aggregates.</p>
 
