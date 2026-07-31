@@ -14,11 +14,6 @@ subtitle: >-
   · Ph.D.,
   <a class="role-chip" href="https://nus.edu.sg" target="_blank" rel="noopener noreferrer">NUS</a>
 
-profile:
-  align: right
-  image: gaurang.png
-  image_circular: false
-
 news: false
 selected_papers: true
 social: true
