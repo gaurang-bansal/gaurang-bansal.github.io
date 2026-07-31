@@ -2,7 +2,7 @@
 layout: page
 title: PhishNet
 description: ML/LLM — Google × NUS phishing detection with unsupervised learning and a real-time Chrome plugin path.
-importance: 6
+importance: 7
 category: ML and AI
 ---
 

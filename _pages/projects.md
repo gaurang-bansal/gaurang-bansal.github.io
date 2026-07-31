@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Case studies — Fast Ad, AdScrape, BrandBooster, QuickAds, online courses, Turing, and ML/AI research systems.
+description: Case studies — Fast Ad, AdScrape, Meta Ad Analyser, Video Intelligence Agent, BrandBooster, QuickAds, Turing, and ML/AI research.
 nav: true
 nav_order: 3
 display_categories: [Product, Industry, ML and AI, Research]
@@ -13,8 +13,9 @@ horizontal: true
   <p class="page-kicker">Work</p>
   <h2 class="page-hero-title">Products, ML/AI systems, and peer-reviewed research</h2>
   <p class="page-hero-lead">
-    Shipped products (Fast Ad, AdScrape, BrandBooster, QuickAds, course platform), frontier evaluation at Turing,
-    and machine-learning / security research. Open any card for problem, approach, and links.
+    Shipped products (Fast Ad, AdScrape, Meta Ad Analyser, BrandBooster, QuickAds, course platform),
+    video intelligence for investigations, frontier evaluation at Turing, and machine-learning research.
+    Open any card for problem, approach, and links.
   </p>
 </div>
 

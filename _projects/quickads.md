@@ -2,7 +2,7 @@
 layout: page
 title: QuickAds
 description: Co-founder — AI performance creative. 30M+ ad insights, 30K+ brands, Stevie Award, Kae Capital–backed.
-importance: 3
+importance: 4
 category: Product
 ---
 

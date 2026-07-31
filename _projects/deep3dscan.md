@@ -2,7 +2,7 @@
 layout: page
 title: Deep3DSCan
 description: ML — deep residual networks + morphological descriptors for lung cancer classification and 3D segmentation.
-importance: 1
+importance: 2
 category: ML and AI
 ---
 

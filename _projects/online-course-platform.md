@@ -2,7 +2,7 @@
 layout: page
 title: Online Course Platform
 description: Built — listen to classes, attendance tracking, quizzes/evaluation, student progress, and admin/coordinator workflows.
-importance: 5
+importance: 6
 category: Product
 ---
 

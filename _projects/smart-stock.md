@@ -2,7 +2,7 @@
 layout: page
 title: Smart Stock Exchange
 description: ML + distributed systems — RNN predictive models for decentralized / ledger-backed market transactions.
-importance: 2
+importance: 3
 category: ML and AI
 ---
 

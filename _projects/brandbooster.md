@@ -2,7 +2,7 @@
 layout: page
 title: BrandBooster
 description: Co-founder — lead generation & performance marketing for local service businesses (through Sep 2025).
-importance: 4
+importance: 5
 category: Product
 ---
 
