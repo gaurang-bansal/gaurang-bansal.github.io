@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Case studies — AdScrape, QuickAds, Turing, PhishNet, and UAV/IoT security research.
+description: Case studies — Fast Ad, AdScrape, QuickAds, Turing, PhishNet, and UAV/IoT security research.
 nav: true
 nav_order: 3
 display_categories: [Product, Industry, Research]
@@ -20,12 +20,12 @@ horizontal: true
 
 <div class="impact-strip" aria-label="Projects highlights">
   <div class="impact-card">
-    <span class="impact-value" data-count="240" data-suffix="M+">0</span>
-    <span class="impact-label">Meta ads (AdScrape)</span>
+    <span class="impact-value" data-text="~48h">~48h</span>
+    <span class="impact-label">Video ads (Fast Ad)</span>
   </div>
   <div class="impact-card">
-    <span class="impact-value" data-count="30" data-suffix="M+">0</span>
-    <span class="impact-label">Ad insights (QuickAds)</span>
+    <span class="impact-value" data-count="240" data-suffix="M+">0</span>
+    <span class="impact-label">Meta ads (AdScrape)</span>
   </div>
   <div class="impact-card">
     <span class="impact-value" data-count="30" data-suffix="K+">0</span>

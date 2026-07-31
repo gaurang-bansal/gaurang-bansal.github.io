@@ -2,7 +2,7 @@
 layout: page
 title: AdScrape
 description: Founder — Meta Ad Library intelligence. Dashboard + REST API over 240M+ Facebook & Instagram ads.
-importance: 1
+importance: 2
 category: Product
 ---
 

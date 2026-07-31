@@ -203,6 +203,16 @@ html[data-theme="dark"] .social .contact-icons a[title="X"] i::before {
   box-shadow: 0 0 0 3px var(--brand-purple);
 }
 
+.social-fastad img {
+  background: #fff;
+  padding: 0.2rem;
+  box-shadow: 0 0 0 2px color-mix(in srgb, #0f766e 55%, transparent);
+}
+
+.social-fastad:hover img {
+  box-shadow: 0 0 0 3px #0f766e;
+}
+
 .social-turing img {
   background: #000;
   padding: 0.28rem;

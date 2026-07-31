@@ -8,10 +8,10 @@ middle_name:
 last_name: Bansal
 email: gaurangbansal18@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Founder of AdScrape | CS Expert at Turing | Google PhD Fellow | IEEE Senior Member | PhD, NUS.
+  Founder of Fast Ad & AdScrape | CS Expert at Turing | Google PhD Fellow | IEEE Senior Member | PhD, NUS.
 footer_text: >
   Powered by <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
-keywords: gaurang bansal, adscrape, turing, anthropic, claude opus, google phd fellow, ieee senior member, nus, generative ai, machine learning, cybersecurity
+keywords: gaurang bansal, fast ad, fastad, adscrape, turing, google phd fellow, ieee senior member, nus, generative ai, video ads, machine learning, cybersecurity
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -104,7 +104,8 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://adscrape.in/ # work page URL
+work_url: https://adscrape.in/ # AdScrape
+fastad_url: https://www.fastad.in/ # Fast Ad
 turing_url: https://www.turing.com/ # Turing company URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)

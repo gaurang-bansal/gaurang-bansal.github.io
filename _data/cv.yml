@@ -2,6 +2,12 @@
   type: time_table
   contents:
     - title: Founder
+      institution: Fast Ad · https://www.fastad.in
+      year: 2025–Present
+      description:
+        - AI video marketing engine — trend detection and ready-to-publish video ads in ~48 hours
+        - Short-form ads and social content for Instagram, YouTube, and Meta
+    - title: Founder
       institution: AdScrape · https://adscrape.in
       year: 2025–Present
       description:
@@ -58,6 +64,11 @@
 - title: Leadership & Service
   type: time_table
   contents:
+    - title: Founder
+      institution: Fast Ad
+      year: 2025–Present
+      description:
+        - Company founding and product direction for AI video marketing / trend-aware creative
     - title: Founder
       institution: AdScrape
       year: 2025–Present
@@ -118,5 +129,7 @@
       value: https://www.linkedin.com/in/gaurang18
     - name: Google Scholar
       value: https://scholar.google.com/citations?user=A-t6Ds8AAAAJ
+    - name: Fast Ad
+      value: https://www.fastad.in/
     - name: AdScrape
       value: https://adscrape.in/
