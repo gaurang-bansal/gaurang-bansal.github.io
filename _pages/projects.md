@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Case studies — Fast Ad, AdScrape, QuickAds, Turing, PhishNet, and UAV/IoT security research.
+description: Case studies — Fast Ad, AdScrape, QuickAds, BrandBooster, Turing, PhishNet, and UAV/IoT security research.
 nav: true
 nav_order: 3
 display_categories: [Product, Industry, Research]
