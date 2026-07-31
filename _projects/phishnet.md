@@ -1,9 +1,9 @@
 ---
 layout: page
 title: PhishNet
-description: Google × NUS research — unsupervised / LLM phishing detection with a real-time Chrome plugin path.
-importance: 1
-category: Research
+description: ML/LLM — Google × NUS phishing detection with unsupervised learning and a real-time Chrome plugin path.
+importance: 6
+category: ML and AI
 ---
 
 <div class="case-study" markdown="1">

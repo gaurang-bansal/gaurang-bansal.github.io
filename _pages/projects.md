@@ -2,19 +2,19 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Case studies — Fast Ad, AdScrape, QuickAds, BrandBooster, Turing, PhishNet, and UAV/IoT security research.
+description: Case studies — Fast Ad, AdScrape, BrandBooster, QuickAds, online courses, Turing, and ML/AI research systems.
 nav: true
 nav_order: 3
-display_categories: [Product, Industry, Research]
+display_categories: [Product, Industry, ML and AI, Research]
 horizontal: true
 ---
 
 <div class="page-hero projects-hero">
   <p class="page-kicker">Work</p>
-  <h2 class="page-hero-title">Products, frontier AI evaluation, and peer-reviewed systems</h2>
+  <h2 class="page-hero-title">Products, ML/AI systems, and peer-reviewed research</h2>
   <p class="page-hero-lead">
-    Detailed case studies spanning shipped products, frontier AI evaluation, and peer-reviewed research.
-    Open any card for problem, approach, contributions, and links.
+    Shipped products (Fast Ad, AdScrape, BrandBooster, QuickAds, course platform), frontier evaluation at Turing,
+    and machine-learning / security research. Open any card for problem, approach, and links.
   </p>
 </div>
 

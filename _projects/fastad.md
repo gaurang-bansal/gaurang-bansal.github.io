@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fast Ad
-description: Founder — AI video marketing engine. Trend detection and ready-to-publish video ads in ~48 hours.
+description: Founder — AI video marketing. Trend detection and ready-to-publish video ads in ~48 hours for Meta, YouTube, and Instagram.
 importance: 1
 category: Product
 ---
