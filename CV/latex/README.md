@@ -12,10 +12,10 @@ Paste these into your YAAC / Overleaf project. Content matches the live site as 
 | `section_coordinator.tex` | Older service-only draft (prefer `section_leadership.tex`) |
 
 ### Key updates vs old CV
-- Tagline: **Founder, Fast Ad & AdScrape · CS Expert, Turing · Google PhD Fellow · Ph.D., NUS**
+- Tagline: **Founder, Fast Ad · CS Expert, Turing · Google PhD Fellow · Ph.D., NUS**
 - Email: `gaurangbansal18@gmail.com` (QuickAds email removed)
 - QuickAds / Vedastu end dates: **Aug 2025** (not Present)
-- New roles: **Fast Ad**, **AdScrape**, and **Turing**
+- New roles: **Fast Ad** and **Turing**
 - Summary: 30+ pubs, **2,200+** citations; IEEE Senior Member
 - Google Scholar ID: `A-t6Ds8AAAAJ`
 
