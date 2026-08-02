@@ -7,12 +7,6 @@
       description:
         - AI video marketing engine — trend detection and ready-to-publish video ads in ~48 hours
         - Short-form ads and social content for Instagram, YouTube, and Meta
-    - title: Founder
-      institution: AdScrape · https://www.adscrape.in/
-      year: 2025–Present
-      description:
-        - Meta Ad Library intelligence — dashboard + REST API for 240M+ Facebook & Instagram ads
-        - Brand/keyword trackers, AI ad analysis, creative download; no Graph token required
     - title: Computer Science Expert
       institution: Turing
       year: 2025–Present
@@ -74,11 +68,6 @@
       year: 2025–Present
       description:
         - Company founding and product direction for AI video marketing / trend-aware creative
-    - title: Founder
-      institution: AdScrape
-      year: 2025–Present
-      description:
-        - Company founding, product direction, and go-to-market for Meta Ad Library intelligence
     - title: Co-Founder
       institution: QuickAds
       year: 2024–2025
@@ -141,5 +130,3 @@
       value: https://scholar.google.com/citations?user=A-t6Ds8AAAAJ
     - name: Fast Ad
       value: https://www.fastad.in/
-    - name: AdScrape
-      value: https://www.adscrape.in/

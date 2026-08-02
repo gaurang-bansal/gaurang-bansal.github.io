@@ -25,8 +25,8 @@ horizontal: true
     <span class="impact-label">Video ads (Fast Ad)</span>
   </div>
   <div class="impact-card">
-    <span class="impact-value" data-count="240" data-suffix="M+">0</span>
-    <span class="impact-label">Meta ads (AdScrape)</span>
+    <span class="impact-value" data-count="30" data-suffix="M+">0</span>
+    <span class="impact-label">Ad intelligence (QuickAds)</span>
   </div>
   <div class="impact-card">
     <span class="impact-value" data-count="30" data-suffix="K+">0</span>

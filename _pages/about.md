@@ -5,8 +5,6 @@ permalink: /
 subtitle: >-
   Founder,
   <a class="role-chip" href="https://www.fastad.in/" target="_blank" rel="noopener noreferrer">Fast Ad</a>
-  &amp;
-  <a class="role-chip" href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a>
   · Computer Science Expert,
   <a class="role-chip" href="https://www.turing.com/" target="_blank" rel="noopener noreferrer">Turing</a>
   ·
@@ -19,7 +17,7 @@ selected_papers: true
 social: true
 ---
 
-I build AI products and advance research at the intersection of machine learning, security, and real-world systems. I am the **Founder of [Fast Ad](https://www.fastad.in/)** and **[AdScrape](https://www.adscrape.in/)**. Fast Ad is an AI-powered video marketing engine that detects industry trends and delivers ready-to-publish video ads in about 48 hours—high-impact short-form creatives for the scroll era. AdScrape is a Meta Ad Library intelligence platform (dashboard + API) for Facebook and Instagram ad research—search **240M+** live ads, automate competitive monitoring, and skip Graph tokens/proxies. As a **Computer Science Expert at [Turing](https://www.turing.com/)**, I help accelerate frontier AI research with high-quality evaluation data and expert critique across coding, reasoning, STEM, multilinguality, multimodality, and agents—including work on Claude Opus–class models through Turing’s lab partnerships.
+I build AI products and advance research at the intersection of machine learning, security, and real-world systems. I am the **Founder of [Fast Ad](https://www.fastad.in/)**, an AI-powered video marketing engine that detects industry trends and delivers ready-to-publish video ads in about 48 hours—high-impact short-form creatives for the scroll era. As a **Computer Science Expert at [Turing](https://www.turing.com/)**, I help accelerate frontier AI research with high-quality evaluation data and expert critique across coding, reasoning, STEM, multilinguality, multimodality, and agents—including work on Claude Opus–class models through Turing’s lab partnerships.
 
 <div class="impact-strip" aria-label="Impact highlights">
   <div class="impact-card">
@@ -48,7 +46,6 @@ Earlier, I was a Research Collaborator at [Google](https://about.google/) on aut
 
 <p class="cta-row">
   <a class="btn btn-primary btn-sm z-depth-0" href="https://www.fastad.in/" target="_blank" rel="noopener noreferrer">Fast Ad</a>
-  <a class="btn btn-outline-primary btn-sm z-depth-0" href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a>
   <a class="btn btn-outline-primary btn-sm z-depth-0" href="/publications/">Publications</a>
   <a class="btn btn-outline-primary btn-sm z-depth-0" href="/projects/">Projects</a>
   <a class="btn btn-outline-primary btn-sm z-depth-0" href="/assets/pdf/Gaurang_Bansal_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>

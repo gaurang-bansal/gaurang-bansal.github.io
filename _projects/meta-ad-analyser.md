@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meta Ad Analyser
-description: AI/ML — per-ad competitive teardown for Meta creatives (copy / improve / attack), as shipped in AdScrape.
+description: AI/ML — per-ad competitive teardown for Meta creatives (copy / improve / attack).
 importance: 3
 category: Product
 ---
@@ -12,13 +12,9 @@ category: Product
   <p class="case-kicker">Product · AI / ML · Meta ads</p>
   <h2 class="case-headline">Every ad becomes a decision — not a screenshot</h2>
   <p class="case-lead">
-    The <strong>Meta Ad Analyser</strong> (shipped as part of the
-    <a href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">AdScrape</a> stack)
-    runs deep AI analysis on individual Meta ads: paste an archive ID or Ad Library URL and get strategy,
-    strengths, weaknesses, and explicit actions — <em>what to copy, improve, and attack</em>.
-  </p>
-  <p class="case-links">
-    <a class="btn btn-primary btn-sm z-depth-0" href="https://www.adscrape.in/" target="_blank" rel="noopener noreferrer">See in AdScrape</a>
+    The <strong>Meta Ad Analyser</strong> runs deep AI analysis on individual Meta ads:
+    paste an archive ID or Ad Library URL and get strategy, strengths, weaknesses, and explicit
+    actions — <em>what to copy, improve, and attack</em>.
   </p>
 </div>
 
@@ -31,7 +27,7 @@ category: Product
 
 ### Why it matters
 
-Hiring managers and technical founders look for AI that **changes a workflow**. This is not “chat with your ads” — it is structured competitive intelligence tied to a searchable library of **240M+** Meta ads and a developer API.
+Hiring managers and technical founders look for AI that **changes a workflow**. This is not “chat with your ads” — it is structured competitive intelligence for Meta creatives at library scale.
 
 ### What it offers
 
@@ -60,7 +56,7 @@ Spy tools give infinite galleries. Strategists still spend hours reading ads one
 
 ### Approach
 
-Multimodal models over ad creative + copy → normalized fields → competitive brief → action list. Designed to sit on top of AdScrape discovery (dashboard or API).
+Multimodal models over ad creative + copy → normalized fields → competitive brief → action list. Works from an Ad Library URL or archive ID, standalone or via API.
 
 ### Tech stack
 
@@ -68,12 +64,12 @@ Multimodal models over ad creative + copy → normalized fields → competitive 
   <li>Multimodal LLMs</li>
   <li>Vision models</li>
   <li>FastAPI</li>
-  <li>AdScrape data plane</li>
+  <li>Meta Ad Library</li>
 </ul>
 
 ### Outcomes
 
 - Turns Meta Ad Library inventory into **per-ad decisions**  
-- Available in-product with AdScrape plans; API path for builders  
+- API path for builders wiring analysis into creative workflows  
 
 </div>

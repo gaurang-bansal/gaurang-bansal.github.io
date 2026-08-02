@@ -193,16 +193,6 @@ html[data-theme="dark"] .social .contact-icons a[title="X"] i::before {
     transform 0.2s ease;
 }
 
-.social-adscrape img {
-  background: #fff;
-  padding: 0.2rem;
-  box-shadow: 0 0 0 2px color-mix(in srgb, var(--brand-purple) 55%, transparent);
-}
-
-.social-adscrape:hover img {
-  box-shadow: 0 0 0 3px var(--brand-purple);
-}
-
 .social-fastad img {
   background: #fff;
   padding: 0.2rem;
